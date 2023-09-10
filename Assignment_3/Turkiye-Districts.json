@@ -1,0 +1,6792 @@
+[
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ADANA",
+    "DistrictName": "ALADAĞ",
+    "NumberPlate": 1,
+    "Population": 15855
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ADANA",
+    "DistrictName": "CEYHAN",
+    "NumberPlate": 1,
+    "Population": 159955
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ADANA",
+    "DistrictName": "ÇUKUROVA",
+    "NumberPlate": 1,
+    "Population": 389319
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ADANA",
+    "DistrictName": "FEKE",
+    "NumberPlate": 1,
+    "Population": 16072
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ADANA",
+    "DistrictName": "İMAMOĞLU",
+    "NumberPlate": 1,
+    "Population": 27399
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ADANA",
+    "DistrictName": "KARAİSALI",
+    "NumberPlate": 1,
+    "Population": 21967
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ADANA",
+    "DistrictName": "KARATAŞ",
+    "NumberPlate": 1,
+    "Population": 23321
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ADANA",
+    "DistrictName": "KOZAN",
+    "NumberPlate": 1,
+    "Population": 132320
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ADANA",
+    "DistrictName": "POZANTI",
+    "NumberPlate": 1,
+    "Population": 20005
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ADANA",
+    "DistrictName": "SAİMBEYLİ",
+    "NumberPlate": 1,
+    "Population": 14030
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ADANA",
+    "DistrictName": "SARIÇAM",
+    "NumberPlate": 1,
+    "Population": 208227
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ADANA",
+    "DistrictName": "SEYHAN",
+    "NumberPlate": 1,
+    "Population": 792536
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ADANA",
+    "DistrictName": "TUFANBEYLİ",
+    "NumberPlate": 1,
+    "Population": 16660
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ADANA",
+    "DistrictName": "YUMURTALIK",
+    "NumberPlate": 1,
+    "Population": 18653
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ADANA",
+    "DistrictName": "YÜREĞİR",
+    "NumberPlate": 1,
+    "Population": 407054
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ADIYAMAN",
+    "DistrictName": "BESNİ",
+    "NumberPlate": 2,
+    "Population": 77207
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ADIYAMAN",
+    "DistrictName": "ÇELİKHAN",
+    "NumberPlate": 2,
+    "Population": 15294
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ADIYAMAN",
+    "DistrictName": "GERGER",
+    "NumberPlate": 2,
+    "Population": 16416
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ADIYAMAN",
+    "DistrictName": "GÖLBAŞI",
+    "NumberPlate": 2,
+    "Population": 50150
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ADIYAMAN",
+    "DistrictName": "KAHTA",
+    "NumberPlate": 2,
+    "Population": 127534
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ADIYAMAN",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 2,
+    "Population": 312207
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ADIYAMAN",
+    "DistrictName": "SAMSAT",
+    "NumberPlate": 2,
+    "Population": 7313
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ADIYAMAN",
+    "DistrictName": "SİNCİK",
+    "NumberPlate": 2,
+    "Population": 16341
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ADIYAMAN",
+    "DistrictName": "TUT",
+    "NumberPlate": 2,
+    "Population": 9686
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AFYONKARAHİSAR",
+    "DistrictName": "BAŞMAKÇI",
+    "NumberPlate": 3,
+    "Population": 9536
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AFYONKARAHİSAR",
+    "DistrictName": "BAYAT",
+    "NumberPlate": 3,
+    "Population": 7687
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AFYONKARAHİSAR",
+    "DistrictName": "BOLVADİN",
+    "NumberPlate": 3,
+    "Population": 45944
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AFYONKARAHİSAR",
+    "DistrictName": "ÇAY",
+    "NumberPlate": 3,
+    "Population": 30777
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AFYONKARAHİSAR",
+    "DistrictName": "ÇOBANLAR",
+    "NumberPlate": 3,
+    "Population": 14131
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AFYONKARAHİSAR",
+    "DistrictName": "DAZKIRI",
+    "NumberPlate": 3,
+    "Population": 11364
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AFYONKARAHİSAR",
+    "DistrictName": "DİNAR",
+    "NumberPlate": 3,
+    "Population": 47378
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AFYONKARAHİSAR",
+    "DistrictName": "EMİRDAĞ",
+    "NumberPlate": 3,
+    "Population": 42327
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AFYONKARAHİSAR",
+    "DistrictName": "EVCİLER",
+    "NumberPlate": 3,
+    "Population": 7183
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AFYONKARAHİSAR",
+    "DistrictName": "HOCALAR",
+    "NumberPlate": 3,
+    "Population": 9035
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AFYONKARAHİSAR",
+    "DistrictName": "İHSANİYE",
+    "NumberPlate": 3,
+    "Population": 27455
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AFYONKARAHİSAR",
+    "DistrictName": "İSCEHİSAR",
+    "NumberPlate": 3,
+    "Population": 24999
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AFYONKARAHİSAR",
+    "DistrictName": "KIZILÖREN",
+    "NumberPlate": 3,
+    "Population": 2161
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AFYONKARAHİSAR",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 3,
+    "Population": 319574
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AFYONKARAHİSAR",
+    "DistrictName": "SANDIKLI",
+    "NumberPlate": 3,
+    "Population": 55210
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AFYONKARAHİSAR",
+    "DistrictName": "SİNANPAŞA",
+    "NumberPlate": 3,
+    "Population": 38830
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AFYONKARAHİSAR",
+    "DistrictName": "SULTANDAĞI",
+    "NumberPlate": 3,
+    "Population": 14279
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AFYONKARAHİSAR",
+    "DistrictName": "ŞUHUT",
+    "NumberPlate": 3,
+    "Population": 36309
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "AĞRI",
+    "DistrictName": "DİYADİN",
+    "NumberPlate": 4,
+    "Population": 40286
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "AĞRI",
+    "DistrictName": "DOĞUBAYAZIT",
+    "NumberPlate": 4,
+    "Population": 118643
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "AĞRI",
+    "DistrictName": "ELEŞKİRT",
+    "NumberPlate": 4,
+    "Population": 31545
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "AĞRI",
+    "DistrictName": "HAMUR",
+    "NumberPlate": 4,
+    "Population": 17106
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "AĞRI",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 4,
+    "Population": 150335
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "AĞRI",
+    "DistrictName": "PATNOS",
+    "NumberPlate": 4,
+    "Population": 118481
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "AĞRI",
+    "DistrictName": "TAŞLIÇAY",
+    "NumberPlate": 4,
+    "Population": 19321
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "AĞRI",
+    "DistrictName": "TUTAK",
+    "NumberPlate": 4,
+    "Population": 28927
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "AKSARAY",
+    "DistrictName": "AĞAÇÖREN",
+    "NumberPlate": 68,
+    "Population": 7633
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "AKSARAY",
+    "DistrictName": "ESKİL",
+    "NumberPlate": 68,
+    "Population": 27151
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "AKSARAY",
+    "DistrictName": "GÜLAĞAÇ",
+    "NumberPlate": 68,
+    "Population": 19443
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "AKSARAY",
+    "DistrictName": "GÜZELYURT",
+    "NumberPlate": 68,
+    "Population": 10677
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "AKSARAY",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 68,
+    "Population": 315222
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "AKSARAY",
+    "DistrictName": "ORTAKÖY",
+    "NumberPlate": 68,
+    "Population": 32130
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "AKSARAY",
+    "DistrictName": "SARIYAHŞİ",
+    "NumberPlate": 68,
+    "Population": 5183
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "AMASYA",
+    "DistrictName": "GÖYNÜCEK",
+    "NumberPlate": 5,
+    "Population": 10291
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "AMASYA",
+    "DistrictName": "GÜMÜŞHACIKÖY",
+    "NumberPlate": 5,
+    "Population": 22179
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "AMASYA",
+    "DistrictName": "HAMAMÖZÜ",
+    "NumberPlate": 5,
+    "Population": 3565
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "AMASYA",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 5,
+    "Population": 147380
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "AMASYA",
+    "DistrictName": "MERZİFON",
+    "NumberPlate": 5,
+    "Population": 74727
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "AMASYA",
+    "DistrictName": "SULUOVA",
+    "NumberPlate": 5,
+    "Population": 47066
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "AMASYA",
+    "DistrictName": "TAŞOVA",
+    "NumberPlate": 5,
+    "Population": 30123
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ANKARA",
+    "DistrictName": "AKYURT",
+    "NumberPlate": 6,
+    "Population": 38588
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ANKARA",
+    "DistrictName": "ALTINDAĞ",
+    "NumberPlate": 6,
+    "Population": 407675
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ANKARA",
+    "DistrictName": "AYAŞ",
+    "NumberPlate": 6,
+    "Population": 13093
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ANKARA",
+    "DistrictName": "BALA",
+    "NumberPlate": 6,
+    "Population": 22966
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ANKARA",
+    "DistrictName": "BEYPAZARI",
+    "NumberPlate": 6,
+    "Population": 48393
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ANKARA",
+    "DistrictName": "ÇAMLIDERE",
+    "NumberPlate": 6,
+    "Population": 8350
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ANKARA",
+    "DistrictName": "ÇANKAYA",
+    "NumberPlate": 6,
+    "Population": 949265
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ANKARA",
+    "DistrictName": "ÇUBUK",
+    "NumberPlate": 6,
+    "Population": 91363
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ANKARA",
+    "DistrictName": "ELMADAĞ",
+    "NumberPlate": 6,
+    "Population": 44236
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ANKARA",
+    "DistrictName": "ETİMESGUT",
+    "NumberPlate": 6,
+    "Population": 606472
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ANKARA",
+    "DistrictName": "EVREN",
+    "NumberPlate": 6,
+    "Population": 2965
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ANKARA",
+    "DistrictName": "GÖLBAŞI",
+    "NumberPlate": 6,
+    "Population": 142961
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ANKARA",
+    "DistrictName": "GÜDÜL",
+    "NumberPlate": 6,
+    "Population": 8155
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ANKARA",
+    "DistrictName": "HAYMANA",
+    "NumberPlate": 6,
+    "Population": 27298
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ANKARA",
+    "DistrictName": "KALECİK",
+    "NumberPlate": 6,
+    "Population": 12502
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ANKARA",
+    "DistrictName": "KAZAN",
+    "NumberPlate": 6,
+    "Population": 57913
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ANKARA",
+    "DistrictName": "KEÇİÖREN",
+    "NumberPlate": 6,
+    "Population": 942884
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ANKARA",
+    "DistrictName": "KIZILCAHAMAM",
+    "NumberPlate": 6,
+    "Population": 26968
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ANKARA",
+    "DistrictName": "MAMAK",
+    "NumberPlate": 6,
+    "Population": 682420
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ANKARA",
+    "DistrictName": "NALLIHAN",
+    "NumberPlate": 6,
+    "Population": 26961
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ANKARA",
+    "DistrictName": "POLATLI",
+    "NumberPlate": 6,
+    "Population": 127526
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ANKARA",
+    "DistrictName": "PURSAKLAR",
+    "NumberPlate": 6,
+    "Population": 159676
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ANKARA",
+    "DistrictName": "SİNCAN",
+    "NumberPlate": 6,
+    "Population": 561411
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ANKARA",
+    "DistrictName": "ŞEREFLİKOÇHİSAR",
+    "NumberPlate": 6,
+    "Population": 33475
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ANKARA",
+    "DistrictName": "YENİMAHALLE",
+    "NumberPlate": 6,
+    "Population": 703809
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ANTALYA",
+    "DistrictName": "AKSEKİ",
+    "NumberPlate": 7,
+    "Population": 10575
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ANTALYA",
+    "DistrictName": "AKSU",
+    "NumberPlate": 7,
+    "Population": 75633
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ANTALYA",
+    "DistrictName": "ALANYA",
+    "NumberPlate": 7,
+    "Population": 350636
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ANTALYA",
+    "DistrictName": "DEMRE",
+    "NumberPlate": 7,
+    "Population": 27150
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ANTALYA",
+    "DistrictName": "DÖŞEMEALTI",
+    "NumberPlate": 7,
+    "Population": 73809
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ANTALYA",
+    "DistrictName": "ELMALI",
+    "NumberPlate": 7,
+    "Population": 40614
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ANTALYA",
+    "DistrictName": "FİNİKE",
+    "NumberPlate": 7,
+    "Population": 49407
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ANTALYA",
+    "DistrictName": "GAZİPAŞA",
+    "NumberPlate": 7,
+    "Population": 52126
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ANTALYA",
+    "DistrictName": "GÜNDOĞMUŞ",
+    "NumberPlate": 7,
+    "Population": 7170
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ANTALYA",
+    "DistrictName": "İBRADI",
+    "NumberPlate": 7,
+    "Population": 2868
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ANTALYA",
+    "DistrictName": "KAŞ",
+    "NumberPlate": 7,
+    "Population": 61488
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ANTALYA",
+    "DistrictName": "KEMER",
+    "NumberPlate": 7,
+    "Population": 46615
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ANTALYA",
+    "DistrictName": "KEPEZ",
+    "NumberPlate": 7,
+    "Population": 591895
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ANTALYA",
+    "DistrictName": "KONYAALTI",
+    "NumberPlate": 7,
+    "Population": 199609
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ANTALYA",
+    "DistrictName": "KORKUTELİ",
+    "NumberPlate": 7,
+    "Population": 55883
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ANTALYA",
+    "DistrictName": "KUMLUCA",
+    "NumberPlate": 7,
+    "Population": 72478
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ANTALYA",
+    "DistrictName": "MANAVGAT",
+    "NumberPlate": 7,
+    "Population": 245740
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ANTALYA",
+    "DistrictName": "MURATPAŞA",
+    "NumberPlate": 7,
+    "Population": 521183
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ANTALYA",
+    "DistrictName": "SERİK",
+    "NumberPlate": 7,
+    "Population": 134953
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ARDAHAN",
+    "DistrictName": "ÇILDIR",
+    "NumberPlate": 75,
+    "Population": 8983
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ARDAHAN",
+    "DistrictName": "DAMAL",
+    "NumberPlate": 75,
+    "Population": 5127
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ARDAHAN",
+    "DistrictName": "GÖLE",
+    "NumberPlate": 75,
+    "Population": 23933
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ARDAHAN",
+    "DistrictName": "HANAK",
+    "NumberPlate": 75,
+    "Population": 8418
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ARDAHAN",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 75,
+    "Population": 42023
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ARDAHAN",
+    "DistrictName": "POSOF",
+    "NumberPlate": 75,
+    "Population": 6448
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ARTVİN",
+    "DistrictName": "ARDANUÇ",
+    "NumberPlate": 8,
+    "Population": 11198
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ARTVİN",
+    "DistrictName": "ARHAVİ",
+    "NumberPlate": 8,
+    "Population": 21661
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ARTVİN",
+    "DistrictName": "BORÇKA",
+    "NumberPlate": 8,
+    "Population": 22030
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ARTVİN",
+    "DistrictName": "HOPA",
+    "NumberPlate": 8,
+    "Population": 28136
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ARTVİN",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 8,
+    "Population": 34537
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ARTVİN",
+    "DistrictName": "MURGUL",
+    "NumberPlate": 8,
+    "Population": 6522
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ARTVİN",
+    "DistrictName": "ŞAVŞAT",
+    "NumberPlate": 8,
+    "Population": 16975
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ARTVİN",
+    "DistrictName": "YUSUFELİ",
+    "NumberPlate": 8,
+    "Population": 19510
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AYDIN",
+    "DistrictName": "BOZDOĞAN",
+    "NumberPlate": 9,
+    "Population": 32963
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AYDIN",
+    "DistrictName": "BUHARKENT",
+    "NumberPlate": 9,
+    "Population": 12951
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AYDIN",
+    "DistrictName": "ÇİNE",
+    "NumberPlate": 9,
+    "Population": 48734
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AYDIN",
+    "DistrictName": "DİDİM",
+    "NumberPlate": 9,
+    "Population": 93876
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AYDIN",
+    "DistrictName": "EFELER",
+    "NumberPlate": 9,
+    "Population": 300225
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AYDIN",
+    "DistrictName": "GERMENCİK",
+    "NumberPlate": 9,
+    "Population": 43713
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AYDIN",
+    "DistrictName": "İNCİRLİOVA",
+    "NumberPlate": 9,
+    "Population": 54806
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AYDIN",
+    "DistrictName": "KARACASU",
+    "NumberPlate": 9,
+    "Population": 18003
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AYDIN",
+    "DistrictName": "KARPUZLU",
+    "NumberPlate": 9,
+    "Population": 10755
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AYDIN",
+    "DistrictName": "KOÇARLI",
+    "NumberPlate": 9,
+    "Population": 22155
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AYDIN",
+    "DistrictName": "KÖŞK",
+    "NumberPlate": 9,
+    "Population": 28101
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AYDIN",
+    "DistrictName": "KUŞADASI",
+    "NumberPlate": 9,
+    "Population": 125812
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AYDIN",
+    "DistrictName": "KUYUCAK",
+    "NumberPlate": 9,
+    "Population": 26393
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AYDIN",
+    "DistrictName": "NAZİLLİ",
+    "NumberPlate": 9,
+    "Population": 160581
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AYDIN",
+    "DistrictName": "SÖKE",
+    "NumberPlate": 9,
+    "Population": 122708
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AYDIN",
+    "DistrictName": "SULTANHİSAR",
+    "NumberPlate": 9,
+    "Population": 20272
+  },
+  {
+    "Region": "EGE",
+    "CityName": "AYDIN",
+    "DistrictName": "YENİPAZAR",
+    "NumberPlate": 9,
+    "Population": 11983
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BALIKESİR",
+    "DistrictName": "ALTIEYLÜL",
+    "NumberPlate": 10,
+    "Population": 185038
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BALIKESİR",
+    "DistrictName": "AYVALIK",
+    "NumberPlate": 10,
+    "Population": 72371
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BALIKESİR",
+    "DistrictName": "BALYA",
+    "NumberPlate": 10,
+    "Population": 12658
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BALIKESİR",
+    "DistrictName": "BANDIRMA",
+    "NumberPlate": 10,
+    "Population": 161894
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BALIKESİR",
+    "DistrictName": "BİGADİÇ",
+    "NumberPlate": 10,
+    "Population": 49717
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BALIKESİR",
+    "DistrictName": "BURHANİYE",
+    "NumberPlate": 10,
+    "Population": 63379
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BALIKESİR",
+    "DistrictName": "DURSUNBEY",
+    "NumberPlate": 10,
+    "Population": 34159
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BALIKESİR",
+    "DistrictName": "EDREMİT",
+    "NumberPlate": 10,
+    "Population": 164696
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BALIKESİR",
+    "DistrictName": "ERDEK",
+    "NumberPlate": 10,
+    "Population": 32038
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BALIKESİR",
+    "DistrictName": "GÖMEÇ",
+    "NumberPlate": 10,
+    "Population": 16217
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BALIKESİR",
+    "DistrictName": "GÖNEN",
+    "NumberPlate": 10,
+    "Population": 74788
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BALIKESİR",
+    "DistrictName": "HAVRAN",
+    "NumberPlate": 10,
+    "Population": 27914
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BALIKESİR",
+    "DistrictName": "İVRİNDİ",
+    "NumberPlate": 10,
+    "Population": 31897
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BALIKESİR",
+    "DistrictName": "KARESİ",
+    "NumberPlate": 10,
+    "Population": 185118
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BALIKESİR",
+    "DistrictName": "KEPSUT",
+    "NumberPlate": 10,
+    "Population": 22591
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BALIKESİR",
+    "DistrictName": "MANYAS",
+    "NumberPlate": 10,
+    "Population": 18279
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BALIKESİR",
+    "DistrictName": "MARMARA",
+    "NumberPlate": 10,
+    "Population": 10148
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BALIKESİR",
+    "DistrictName": "SAVAŞTEPE",
+    "NumberPlate": 10,
+    "Population": 17003
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BALIKESİR",
+    "DistrictName": "SINDIRGI",
+    "NumberPlate": 10,
+    "Population": 32661
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BALIKESİR",
+    "DistrictName": "SUSURLUK",
+    "NumberPlate": 10,
+    "Population": 38044
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "BARTIN",
+    "DistrictName": "AMASRA",
+    "NumberPlate": 74,
+    "Population": 14086
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "BARTIN",
+    "DistrictName": "KURUCAŞİLE",
+    "NumberPlate": 74,
+    "Population": 6424
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "BARTIN",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 74,
+    "Population": 159811
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "BARTIN",
+    "DistrictName": "ULUS",
+    "NumberPlate": 74,
+    "Population": 21390
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "BATMAN",
+    "DistrictName": "BEŞİRİ",
+    "NumberPlate": 72,
+    "Population": 30928
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "BATMAN",
+    "DistrictName": "GERCÜŞ",
+    "NumberPlate": 72,
+    "Population": 19304
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "BATMAN",
+    "DistrictName": "HASANKEYF",
+    "NumberPlate": 72,
+    "Population": 7496
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "BATMAN",
+    "DistrictName": "KOZLUK",
+    "NumberPlate": 72,
+    "Population": 60953
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "BATMAN",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 72,
+    "Population": 477456
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "BATMAN",
+    "DistrictName": "SASON",
+    "NumberPlate": 72,
+    "Population": 30182
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "BAYBURT",
+    "DistrictName": "AYDINTEPE",
+    "NumberPlate": 69,
+    "Population": 6234
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "BAYBURT",
+    "DistrictName": "DEMİRÖZÜ",
+    "NumberPlate": 69,
+    "Population": 8531
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "BAYBURT",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 69,
+    "Population": 70277
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BİLECİK",
+    "DistrictName": "BOZÜYÜK",
+    "NumberPlate": 11,
+    "Population": 78010
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BİLECİK",
+    "DistrictName": "GÖLPAZARI",
+    "NumberPlate": 11,
+    "Population": 9031
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BİLECİK",
+    "DistrictName": "İNHİSAR",
+    "NumberPlate": 11,
+    "Population": 2183
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BİLECİK",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 11,
+    "Population": 86442
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BİLECİK",
+    "DistrictName": "OSMANELİ",
+    "NumberPlate": 11,
+    "Population": 21497
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BİLECİK",
+    "DistrictName": "PAZARYERİ",
+    "NumberPlate": 11,
+    "Population": 10032
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BİLECİK",
+    "DistrictName": "SÖĞÜT",
+    "NumberPlate": 11,
+    "Population": 18352
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BİLECİK",
+    "DistrictName": "YENİPAZAR",
+    "NumberPlate": 11,
+    "Population": 2787
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "BİNGÖL",
+    "DistrictName": "ADAKLI",
+    "NumberPlate": 12,
+    "Population": 8243
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "BİNGÖL",
+    "DistrictName": "GENÇ",
+    "NumberPlate": 12,
+    "Population": 33929
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "BİNGÖL",
+    "DistrictName": "KARLIOVA",
+    "NumberPlate": 12,
+    "Population": 28309
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "BİNGÖL",
+    "DistrictName": "KİĞI",
+    "NumberPlate": 12,
+    "Population": 4801
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "BİNGÖL",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 12,
+    "Population": 168953
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "BİNGÖL",
+    "DistrictName": "SOLHAN",
+    "NumberPlate": 12,
+    "Population": 33973
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "BİNGÖL",
+    "DistrictName": "YAYLADERE",
+    "NumberPlate": 12,
+    "Population": 2052
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "BİNGÖL",
+    "DistrictName": "YEDİSU",
+    "NumberPlate": 12,
+    "Population": 2852
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "BİTLİS",
+    "DistrictName": "ADİLCEVAZ",
+    "NumberPlate": 13,
+    "Population": 30123
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "BİTLİS",
+    "DistrictName": "AHLAT",
+    "NumberPlate": 13,
+    "Population": 42131
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "BİTLİS",
+    "DistrictName": "GÜROYMAK",
+    "NumberPlate": 13,
+    "Population": 48536
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "BİTLİS",
+    "DistrictName": "HİZAN",
+    "NumberPlate": 13,
+    "Population": 32586
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "BİTLİS",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 13,
+    "Population": 71077
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "BİTLİS",
+    "DistrictName": "MUTKİ",
+    "NumberPlate": 13,
+    "Population": 30940
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "BİTLİS",
+    "DistrictName": "TATVAN",
+    "NumberPlate": 13,
+    "Population": 96884
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "BOLU",
+    "DistrictName": "DÖRTDİVAN",
+    "NumberPlate": 14,
+    "Population": 6540
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "BOLU",
+    "DistrictName": "GEREDE",
+    "NumberPlate": 14,
+    "Population": 33833
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "BOLU",
+    "DistrictName": "GÖYNÜK",
+    "NumberPlate": 14,
+    "Population": 14679
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "BOLU",
+    "DistrictName": "KIBRISCIK",
+    "NumberPlate": 14,
+    "Population": 3114
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "BOLU",
+    "DistrictName": "MENGEN",
+    "NumberPlate": 14,
+    "Population": 13679
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "BOLU",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 14,
+    "Population": 217935
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "BOLU",
+    "DistrictName": "MUDURNU",
+    "NumberPlate": 14,
+    "Population": 18629
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "BOLU",
+    "DistrictName": "SEBEN",
+    "NumberPlate": 14,
+    "Population": 4767
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "BOLU",
+    "DistrictName": "YENİÇAĞA",
+    "NumberPlate": 14,
+    "Population": 6838
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "BURDUR",
+    "DistrictName": "AĞLASUN",
+    "NumberPlate": 15,
+    "Population": 7652
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "BURDUR",
+    "DistrictName": "ALTINYAYLA",
+    "NumberPlate": 15,
+    "Population": 5335
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "BURDUR",
+    "DistrictName": "BUCAK",
+    "NumberPlate": 15,
+    "Population": 66156
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "BURDUR",
+    "DistrictName": "ÇAVDIR",
+    "NumberPlate": 15,
+    "Population": 12599
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "BURDUR",
+    "DistrictName": "ÇELTİKÇİ",
+    "NumberPlate": 15,
+    "Population": 4936
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "BURDUR",
+    "DistrictName": "GÖLHİSAR",
+    "NumberPlate": 15,
+    "Population": 23064
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "BURDUR",
+    "DistrictName": "KARAMANLI",
+    "NumberPlate": 15,
+    "Population": 8268
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "BURDUR",
+    "DistrictName": "KEMER",
+    "NumberPlate": 15,
+    "Population": 3000
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "BURDUR",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 15,
+    "Population": 117189
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "BURDUR",
+    "DistrictName": "TEFENNİ",
+    "NumberPlate": 15,
+    "Population": 10744
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "BURDUR",
+    "DistrictName": "YEŞİLOVA",
+    "NumberPlate": 15,
+    "Population": 14773
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BURSA",
+    "DistrictName": "BÜYÜKORHAN",
+    "NumberPlate": 16,
+    "Population": 9321
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BURSA",
+    "DistrictName": "GEMLİK",
+    "NumberPlate": 16,
+    "Population": 118037
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BURSA",
+    "DistrictName": "GÜRSU",
+    "NumberPlate": 16,
+    "Population": 99278
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BURSA",
+    "DistrictName": "HARMANCIK",
+    "NumberPlate": 16,
+    "Population": 6016
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BURSA",
+    "DistrictName": "İNEGÖL",
+    "NumberPlate": 16,
+    "Population": 286848
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BURSA",
+    "DistrictName": "İZNİK",
+    "NumberPlate": 16,
+    "Population": 44050
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BURSA",
+    "DistrictName": "KARACABEY",
+    "NumberPlate": 16,
+    "Population": 84241
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BURSA",
+    "DistrictName": "KELES",
+    "NumberPlate": 16,
+    "Population": 11246
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BURSA",
+    "DistrictName": "KESTEL",
+    "NumberPlate": 16,
+    "Population": 72439
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BURSA",
+    "DistrictName": "MUDANYA",
+    "NumberPlate": 16,
+    "Population": 105308
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BURSA",
+    "DistrictName": "MUSTAFAKEMALPAŞA",
+    "NumberPlate": 16,
+    "Population": 101407
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BURSA",
+    "DistrictName": "NİLÜFER",
+    "NumberPlate": 16,
+    "Population": 518382
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BURSA",
+    "DistrictName": "ORHANELİ",
+    "NumberPlate": 16,
+    "Population": 18786
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BURSA",
+    "DistrictName": "ORHANGAZİ",
+    "NumberPlate": 16,
+    "Population": 80216
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BURSA",
+    "DistrictName": "OSMANGAZİ",
+    "NumberPlate": 16,
+    "Population": 884451
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BURSA",
+    "DistrictName": "YENİŞEHİR",
+    "NumberPlate": 16,
+    "Population": 54485
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "BURSA",
+    "DistrictName": "YILDIRIM",
+    "NumberPlate": 16,
+    "Population": 653307
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "ÇANAKKALE",
+    "DistrictName": "AYVACIK",
+    "NumberPlate": 17,
+    "Population": 34103
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "ÇANAKKALE",
+    "DistrictName": "BAYRAMİÇ",
+    "NumberPlate": 17,
+    "Population": 29136
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "ÇANAKKALE",
+    "DistrictName": "BİGA",
+    "NumberPlate": 17,
+    "Population": 91537
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "ÇANAKKALE",
+    "DistrictName": "BOZCAADA",
+    "NumberPlate": 17,
+    "Population": 3098
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "ÇANAKKALE",
+    "DistrictName": "ÇAN",
+    "NumberPlate": 17,
+    "Population": 48023
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "ÇANAKKALE",
+    "DistrictName": "ECEABAT",
+    "NumberPlate": 17,
+    "Population": 8769
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "ÇANAKKALE",
+    "DistrictName": "EZİNE",
+    "NumberPlate": 17,
+    "Population": 32374
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "ÇANAKKALE",
+    "DistrictName": "GELİBOLU",
+    "NumberPlate": 17,
+    "Population": 44598
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "ÇANAKKALE",
+    "DistrictName": "GÖKÇEADA",
+    "NumberPlate": 17,
+    "Population": 10377
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "ÇANAKKALE",
+    "DistrictName": "LAPSEKİ",
+    "NumberPlate": 17,
+    "Population": 28742
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "ÇANAKKALE",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 17,
+    "Population": 195439
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "ÇANAKKALE",
+    "DistrictName": "YENİCE",
+    "NumberPlate": 17,
+    "Population": 31080
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ÇANKIRI",
+    "DistrictName": "ATKARACALAR",
+    "NumberPlate": 18,
+    "Population": 4968
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ÇANKIRI",
+    "DistrictName": "BAYRAMÖREN",
+    "NumberPlate": 18,
+    "Population": 2433
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ÇANKIRI",
+    "DistrictName": "ÇERKEŞ",
+    "NumberPlate": 18,
+    "Population": 16746
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ÇANKIRI",
+    "DistrictName": "ELDİVAN",
+    "NumberPlate": 18,
+    "Population": 5977
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ÇANKIRI",
+    "DistrictName": "ILGAZ",
+    "NumberPlate": 18,
+    "Population": 13700
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ÇANKIRI",
+    "DistrictName": "KIZILIRMAK",
+    "NumberPlate": 18,
+    "Population": 7122
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ÇANKIRI",
+    "DistrictName": "KORGUN",
+    "NumberPlate": 18,
+    "Population": 4569
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ÇANKIRI",
+    "DistrictName": "KURŞUNLU",
+    "NumberPlate": 18,
+    "Population": 8463
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ÇANKIRI",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 18,
+    "Population": 100027
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ÇANKIRI",
+    "DistrictName": "ORTA",
+    "NumberPlate": 18,
+    "Population": 13207
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ÇANKIRI",
+    "DistrictName": "ŞABANÖZÜ",
+    "NumberPlate": 18,
+    "Population": 11657
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ÇANKIRI",
+    "DistrictName": "YAPRAKLI",
+    "NumberPlate": 18,
+    "Population": 7646
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ÇORUM",
+    "DistrictName": "ALACA",
+    "NumberPlate": 19,
+    "Population": 30592
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ÇORUM",
+    "DistrictName": "BAYAT",
+    "NumberPlate": 19,
+    "Population": 15199
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ÇORUM",
+    "DistrictName": "BOĞAZKALE",
+    "NumberPlate": 19,
+    "Population": 3628
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ÇORUM",
+    "DistrictName": "DODURGA",
+    "NumberPlate": 19,
+    "Population": 5413
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ÇORUM",
+    "DistrictName": "İSKİLİP",
+    "NumberPlate": 19,
+    "Population": 30022
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ÇORUM",
+    "DistrictName": "KARGI",
+    "NumberPlate": 19,
+    "Population": 15334
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ÇORUM",
+    "DistrictName": "LAÇİN",
+    "NumberPlate": 19,
+    "Population": 4289
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ÇORUM",
+    "DistrictName": "MECİTÖZÜ",
+    "NumberPlate": 19,
+    "Population": 14191
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ÇORUM",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 19,
+    "Population": 298796
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ÇORUM",
+    "DistrictName": "OĞUZLAR",
+    "NumberPlate": 19,
+    "Population": 4894
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ÇORUM",
+    "DistrictName": "ORTAKÖY",
+    "NumberPlate": 19,
+    "Population": 6425
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ÇORUM",
+    "DistrictName": "OSMANCIK",
+    "NumberPlate": 19,
+    "Population": 43634
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ÇORUM",
+    "DistrictName": "SUNGURLU",
+    "NumberPlate": 19,
+    "Population": 48028
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ÇORUM",
+    "DistrictName": "UĞURLUDAĞ",
+    "NumberPlate": 19,
+    "Population": 5837
+  },
+  {
+    "Region": "EGE",
+    "CityName": "DENİZLİ",
+    "DistrictName": "ACIPAYAM",
+    "NumberPlate": 20,
+    "Population": 55141
+  },
+  {
+    "Region": "EGE",
+    "CityName": "DENİZLİ",
+    "DistrictName": "BABADAĞ",
+    "NumberPlate": 20,
+    "Population": 6404
+  },
+  {
+    "Region": "EGE",
+    "CityName": "DENİZLİ",
+    "DistrictName": "BAKLAN",
+    "NumberPlate": 20,
+    "Population": 5387
+  },
+  {
+    "Region": "EGE",
+    "CityName": "DENİZLİ",
+    "DistrictName": "BEKİLLİ",
+    "NumberPlate": 20,
+    "Population": 6464
+  },
+  {
+    "Region": "EGE",
+    "CityName": "DENİZLİ",
+    "DistrictName": "BEYAĞAÇ",
+    "NumberPlate": 20,
+    "Population": 6263
+  },
+  {
+    "Region": "EGE",
+    "CityName": "DENİZLİ",
+    "DistrictName": "BOZKURT",
+    "NumberPlate": 20,
+    "Population": 12192
+  },
+  {
+    "Region": "EGE",
+    "CityName": "DENİZLİ",
+    "DistrictName": "BULDAN",
+    "NumberPlate": 20,
+    "Population": 26781
+  },
+  {
+    "Region": "EGE",
+    "CityName": "DENİZLİ",
+    "DistrictName": "ÇAL",
+    "NumberPlate": 20,
+    "Population": 18107
+  },
+  {
+    "Region": "EGE",
+    "CityName": "DENİZLİ",
+    "DistrictName": "ÇAMELİ",
+    "NumberPlate": 20,
+    "Population": 17749
+  },
+  {
+    "Region": "EGE",
+    "CityName": "DENİZLİ",
+    "DistrictName": "ÇARDAK",
+    "NumberPlate": 20,
+    "Population": 8578
+  },
+  {
+    "Region": "EGE",
+    "CityName": "DENİZLİ",
+    "DistrictName": "ÇİVRİL",
+    "NumberPlate": 20,
+    "Population": 60362
+  },
+  {
+    "Region": "EGE",
+    "CityName": "DENİZLİ",
+    "DistrictName": "GÜNEY",
+    "NumberPlate": 20,
+    "Population": 9506
+  },
+  {
+    "Region": "EGE",
+    "CityName": "DENİZLİ",
+    "DistrictName": "HONAZ",
+    "NumberPlate": 20,
+    "Population": 34103
+  },
+  {
+    "Region": "EGE",
+    "CityName": "DENİZLİ",
+    "DistrictName": "KALE",
+    "NumberPlate": 20,
+    "Population": 19396
+  },
+  {
+    "Region": "EGE",
+    "CityName": "DENİZLİ",
+    "DistrictName": "MERKEZEFENDİ",
+    "NumberPlate": 20,
+    "Population": 329451
+  },
+  {
+    "Region": "EGE",
+    "CityName": "DENİZLİ",
+    "DistrictName": "PAMUKKALE",
+    "NumberPlate": 20,
+    "Population": 347621
+  },
+  {
+    "Region": "EGE",
+    "CityName": "DENİZLİ",
+    "DistrictName": "SARAYKÖY",
+    "NumberPlate": 20,
+    "Population": 30696
+  },
+  {
+    "Region": "EGE",
+    "CityName": "DENİZLİ",
+    "DistrictName": "SERİNHİSAR",
+    "NumberPlate": 20,
+    "Population": 14349
+  },
+  {
+    "Region": "EGE",
+    "CityName": "DENİZLİ",
+    "DistrictName": "TAVAS",
+    "NumberPlate": 20,
+    "Population": 42506
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "DİYARBAKIR",
+    "DistrictName": "BAĞLAR",
+    "NumberPlate": 21,
+    "Population": 400019
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "DİYARBAKIR",
+    "DistrictName": "BİSMİL",
+    "NumberPlate": 21,
+    "Population": 118592
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "DİYARBAKIR",
+    "DistrictName": "ÇERMİK",
+    "NumberPlate": 21,
+    "Population": 50390
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "DİYARBAKIR",
+    "DistrictName": "ÇINAR",
+    "NumberPlate": 21,
+    "Population": 77112
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "DİYARBAKIR",
+    "DistrictName": "ÇÜNGÜŞ",
+    "NumberPlate": 21,
+    "Population": 11020
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "DİYARBAKIR",
+    "DistrictName": "DİCLE",
+    "NumberPlate": 21,
+    "Population": 36711
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "DİYARBAKIR",
+    "DistrictName": "EĞİL",
+    "NumberPlate": 21,
+    "Population": 22165
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "DİYARBAKIR",
+    "DistrictName": "ERGANİ",
+    "NumberPlate": 21,
+    "Population": 135514
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "DİYARBAKIR",
+    "DistrictName": "HANİ",
+    "NumberPlate": 21,
+    "Population": 32658
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "DİYARBAKIR",
+    "DistrictName": "HAZRO",
+    "NumberPlate": 21,
+    "Population": 16541
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "DİYARBAKIR",
+    "DistrictName": "KAYAPINAR",
+    "NumberPlate": 21,
+    "Population": 411865
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "DİYARBAKIR",
+    "DistrictName": "KOCAKÖY",
+    "NumberPlate": 21,
+    "Population": 15750
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "DİYARBAKIR",
+    "DistrictName": "KULP",
+    "NumberPlate": 21,
+    "Population": 34644
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "DİYARBAKIR",
+    "DistrictName": "LİCE",
+    "NumberPlate": 21,
+    "Population": 24313
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "DİYARBAKIR",
+    "DistrictName": "SİLVAN",
+    "NumberPlate": 21,
+    "Population": 86745
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "DİYARBAKIR",
+    "DistrictName": "SUR",
+    "NumberPlate": 21,
+    "Population": 100322
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "DİYARBAKIR",
+    "DistrictName": "YENİŞEHİR",
+    "NumberPlate": 21,
+    "Population": 217012
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "DÜZCE",
+    "DistrictName": "AKÇAKOCA",
+    "NumberPlate": 81,
+    "Population": 39500
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "DÜZCE",
+    "DistrictName": "CUMAYERİ",
+    "NumberPlate": 81,
+    "Population": 15060
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "DÜZCE",
+    "DistrictName": "ÇİLİMLİ",
+    "NumberPlate": 81,
+    "Population": 19848
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "DÜZCE",
+    "DistrictName": "GÖLYAKA",
+    "NumberPlate": 81,
+    "Population": 20506
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "DÜZCE",
+    "DistrictName": "GÜMÜŞOVA",
+    "NumberPlate": 81,
+    "Population": 16347
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "DÜZCE",
+    "DistrictName": "KAYNAŞLI",
+    "NumberPlate": 81,
+    "Population": 20540
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "DÜZCE",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 81,
+    "Population": 254827
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "DÜZCE",
+    "DistrictName": "YIĞILCA",
+    "NumberPlate": 81,
+    "Population": 14348
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "EDİRNE",
+    "DistrictName": "ENEZ",
+    "NumberPlate": 22,
+    "Population": 10549
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "EDİRNE",
+    "DistrictName": "HAVSA",
+    "NumberPlate": 22,
+    "Population": 18302
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "EDİRNE",
+    "DistrictName": "İPSALA",
+    "NumberPlate": 22,
+    "Population": 26628
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "EDİRNE",
+    "DistrictName": "KEŞAN",
+    "NumberPlate": 22,
+    "Population": 83860
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "EDİRNE",
+    "DistrictName": "LALAPAŞA",
+    "NumberPlate": 22,
+    "Population": 6358
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "EDİRNE",
+    "DistrictName": "MERİÇ",
+    "NumberPlate": 22,
+    "Population": 13168
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "EDİRNE",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 22,
+    "Population": 186426
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "EDİRNE",
+    "DistrictName": "SÜLOĞLU",
+    "NumberPlate": 22,
+    "Population": 6890
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "EDİRNE",
+    "DistrictName": "UZUNKÖPRÜ",
+    "NumberPlate": 22,
+    "Population": 59934
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ELAZIĞ",
+    "DistrictName": "AĞIN",
+    "NumberPlate": 23,
+    "Population": 2746
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ELAZIĞ",
+    "DistrictName": "ALACAKAYA",
+    "NumberPlate": 23,
+    "Population": 5993
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ELAZIĞ",
+    "DistrictName": "ARICAK",
+    "NumberPlate": 23,
+    "Population": 13732
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ELAZIĞ",
+    "DistrictName": "BASKİL",
+    "NumberPlate": 23,
+    "Population": 12100
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ELAZIĞ",
+    "DistrictName": "KARAKOÇAN",
+    "NumberPlate": 23,
+    "Population": 28436
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ELAZIĞ",
+    "DistrictName": "KEBAN",
+    "NumberPlate": 23,
+    "Population": 6210
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ELAZIĞ",
+    "DistrictName": "KOVANCILAR",
+    "NumberPlate": 23,
+    "Population": 39464
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ELAZIĞ",
+    "DistrictName": "MADEN",
+    "NumberPlate": 23,
+    "Population": 9693
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ELAZIĞ",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 23,
+    "Population": 443363
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ELAZIĞ",
+    "DistrictName": "PALU",
+    "NumberPlate": 23,
+    "Population": 18648
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ELAZIĞ",
+    "DistrictName": "SİVRİCE",
+    "NumberPlate": 23,
+    "Population": 7703
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZİNCAN",
+    "DistrictName": "ÇAYIRLI",
+    "NumberPlate": 24,
+    "Population": 8383
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZİNCAN",
+    "DistrictName": "İLİÇ",
+    "NumberPlate": 24,
+    "Population": 9109
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZİNCAN",
+    "DistrictName": "KEMAH",
+    "NumberPlate": 24,
+    "Population": 7374
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZİNCAN",
+    "DistrictName": "KEMALİYE",
+    "NumberPlate": 24,
+    "Population": 5033
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZİNCAN",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 24,
+    "Population": 163470
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZİNCAN",
+    "DistrictName": "OTLUKBELİ",
+    "NumberPlate": 24,
+    "Population": 2577
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZİNCAN",
+    "DistrictName": "REFAHİYE",
+    "NumberPlate": 24,
+    "Population": 11367
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZİNCAN",
+    "DistrictName": "TERCAN",
+    "NumberPlate": 24,
+    "Population": 16110
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZİNCAN",
+    "DistrictName": "ÜZÜMLÜ",
+    "NumberPlate": 24,
+    "Population": 13928
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZURUM",
+    "DistrictName": "AŞKALE",
+    "NumberPlate": 25,
+    "Population": 22170
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZURUM",
+    "DistrictName": "AZİZİYE",
+    "NumberPlate": 25,
+    "Population": 65133
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZURUM",
+    "DistrictName": "ÇAT",
+    "NumberPlate": 25,
+    "Population": 16239
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZURUM",
+    "DistrictName": "HINIS",
+    "NumberPlate": 25,
+    "Population": 25480
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZURUM",
+    "DistrictName": "HORASAN",
+    "NumberPlate": 25,
+    "Population": 37327
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZURUM",
+    "DistrictName": "İSPİR",
+    "NumberPlate": 25,
+    "Population": 14955
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZURUM",
+    "DistrictName": "KARAÇOBAN",
+    "NumberPlate": 25,
+    "Population": 23055
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZURUM",
+    "DistrictName": "KARAYAZI",
+    "NumberPlate": 25,
+    "Population": 26720
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZURUM",
+    "DistrictName": "KÖPRÜKÖY",
+    "NumberPlate": 25,
+    "Population": 14939
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZURUM",
+    "DistrictName": "NARMAN",
+    "NumberPlate": 25,
+    "Population": 12767
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZURUM",
+    "DistrictName": "OLTU",
+    "NumberPlate": 25,
+    "Population": 30316
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZURUM",
+    "DistrictName": "OLUR",
+    "NumberPlate": 25,
+    "Population": 6367
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZURUM",
+    "DistrictName": "PALANDÖKEN",
+    "NumberPlate": 25,
+    "Population": 175920
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZURUM",
+    "DistrictName": "PASİNLER",
+    "NumberPlate": 25,
+    "Population": 27697
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZURUM",
+    "DistrictName": "PAZARYOLU",
+    "NumberPlate": 25,
+    "Population": 3762
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZURUM",
+    "DistrictName": "ŞENKAYA",
+    "NumberPlate": 25,
+    "Population": 16821
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZURUM",
+    "DistrictName": "TEKMAN",
+    "NumberPlate": 25,
+    "Population": 24631
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZURUM",
+    "DistrictName": "TORTUM",
+    "NumberPlate": 25,
+    "Population": 17545
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZURUM",
+    "DistrictName": "UZUNDERE",
+    "NumberPlate": 25,
+    "Population": 7800
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "ERZURUM",
+    "DistrictName": "YAKUTİYE",
+    "NumberPlate": 25,
+    "Population": 187249
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ESKİŞEHİR",
+    "DistrictName": "ALPU",
+    "NumberPlate": 26,
+    "Population": 10178
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ESKİŞEHİR",
+    "DistrictName": "BEYLİKOVA",
+    "NumberPlate": 26,
+    "Population": 6010
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ESKİŞEHİR",
+    "DistrictName": "ÇİFTELER",
+    "NumberPlate": 26,
+    "Population": 14886
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ESKİŞEHİR",
+    "DistrictName": "GÜNYÜZÜ",
+    "NumberPlate": 26,
+    "Population": 5304
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ESKİŞEHİR",
+    "DistrictName": "HAN",
+    "NumberPlate": 26,
+    "Population": 2045
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ESKİŞEHİR",
+    "DistrictName": "İNÖNÜ",
+    "NumberPlate": 26,
+    "Population": 6216
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ESKİŞEHİR",
+    "DistrictName": "MAHMUDİYE",
+    "NumberPlate": 26,
+    "Population": 7713
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ESKİŞEHİR",
+    "DistrictName": "MİHALGAZİ",
+    "NumberPlate": 26,
+    "Population": 3030
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ESKİŞEHİR",
+    "DistrictName": "MİHALIÇÇIK",
+    "NumberPlate": 26,
+    "Population": 7800
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ESKİŞEHİR",
+    "DistrictName": "ODUNPAZARI",
+    "NumberPlate": 26,
+    "Population": 419114
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ESKİŞEHİR",
+    "DistrictName": "SARICAKAYA",
+    "NumberPlate": 26,
+    "Population": 4611
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ESKİŞEHİR",
+    "DistrictName": "SEYİTGAZİ",
+    "NumberPlate": 26,
+    "Population": 12651
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ESKİŞEHİR",
+    "DistrictName": "SİVRİHİSAR",
+    "NumberPlate": 26,
+    "Population": 20217
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "ESKİŞEHİR",
+    "DistrictName": "TEPEBAŞI",
+    "NumberPlate": 26,
+    "Population": 378594
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "GAZİANTEP",
+    "DistrictName": "ARABAN",
+    "NumberPlate": 27,
+    "Population": 33165
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "GAZİANTEP",
+    "DistrictName": "İSLAHİYE",
+    "NumberPlate": 27,
+    "Population": 67337
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "GAZİANTEP",
+    "DistrictName": "KARKAMIŞ",
+    "NumberPlate": 27,
+    "Population": 9616
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "GAZİANTEP",
+    "DistrictName": "NİZİP",
+    "NumberPlate": 27,
+    "Population": 147865
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "GAZİANTEP",
+    "DistrictName": "NURDAĞI",
+    "NumberPlate": 27,
+    "Population": 40843
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "GAZİANTEP",
+    "DistrictName": "OĞUZELİ",
+    "NumberPlate": 27,
+    "Population": 33044
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "GAZİANTEP",
+    "DistrictName": "ŞAHİNBEY",
+    "NumberPlate": 27,
+    "Population": 936351
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "GAZİANTEP",
+    "DistrictName": "ŞEHİTKAMİL",
+    "NumberPlate": 27,
+    "Population": 839553
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "GAZİANTEP",
+    "DistrictName": "YAVUZELİ",
+    "NumberPlate": 27,
+    "Population": 22658
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "GİRESUN",
+    "DistrictName": "ALUCRA",
+    "NumberPlate": 28,
+    "Population": 8892
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "GİRESUN",
+    "DistrictName": "BULANCAK",
+    "NumberPlate": 28,
+    "Population": 69326
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "GİRESUN",
+    "DistrictName": "ÇAMOLUK",
+    "NumberPlate": 28,
+    "Population": 6735
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "GİRESUN",
+    "DistrictName": "ÇANAKÇI",
+    "NumberPlate": 28,
+    "Population": 6111
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "GİRESUN",
+    "DistrictName": "DERELİ",
+    "NumberPlate": 28,
+    "Population": 18993
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "GİRESUN",
+    "DistrictName": "DOĞANKENT",
+    "NumberPlate": 28,
+    "Population": 6508
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "GİRESUN",
+    "DistrictName": "ESPİYE",
+    "NumberPlate": 28,
+    "Population": 37184
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "GİRESUN",
+    "DistrictName": "EYNESİL",
+    "NumberPlate": 28,
+    "Population": 12581
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "GİRESUN",
+    "DistrictName": "GÖRELE",
+    "NumberPlate": 28,
+    "Population": 31138
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "GİRESUN",
+    "DistrictName": "GÜCE",
+    "NumberPlate": 28,
+    "Population": 8098
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "GİRESUN",
+    "DistrictName": "KEŞAP",
+    "NumberPlate": 28,
+    "Population": 19268
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "GİRESUN",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 28,
+    "Population": 143503
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "GİRESUN",
+    "DistrictName": "PİRAZİZ",
+    "NumberPlate": 28,
+    "Population": 14138
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "GİRESUN",
+    "DistrictName": "ŞEBİNKARAHİSAR",
+    "NumberPlate": 28,
+    "Population": 19557
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "GİRESUN",
+    "DistrictName": "TİREBOLU",
+    "NumberPlate": 28,
+    "Population": 32494
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "GİRESUN",
+    "DistrictName": "YAĞLIDERE",
+    "NumberPlate": 28,
+    "Population": 15628
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "GÜMÜŞHANE",
+    "DistrictName": "KELKİT",
+    "NumberPlate": 29,
+    "Population": 44068
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "GÜMÜŞHANE",
+    "DistrictName": "KÖSE",
+    "NumberPlate": 29,
+    "Population": 7774
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "GÜMÜŞHANE",
+    "DistrictName": "KÜRTÜN",
+    "NumberPlate": 29,
+    "Population": 12456
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "GÜMÜŞHANE",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 29,
+    "Population": 54108
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "GÜMÜŞHANE",
+    "DistrictName": "ŞİRAN",
+    "NumberPlate": 29,
+    "Population": 20224
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "GÜMÜŞHANE",
+    "DistrictName": "TORUL",
+    "NumberPlate": 29,
+    "Population": 11489
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "HAKKARİ",
+    "DistrictName": "ÇUKURCA",
+    "NumberPlate": 30,
+    "Population": 15652
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "HAKKARİ",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 30,
+    "Population": 77606
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "HAKKARİ",
+    "DistrictName": "ŞEMDİNLİ",
+    "NumberPlate": 30,
+    "Population": 42626
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "HAKKARİ",
+    "DistrictName": "YÜKSEKOVA",
+    "NumberPlate": 30,
+    "Population": 119194
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "HATAY",
+    "DistrictName": "ALTINÖZÜ",
+    "NumberPlate": 31,
+    "Population": 60861
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "HATAY",
+    "DistrictName": "ANTAKYA",
+    "NumberPlate": 31,
+    "Population": 393634
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "HATAY",
+    "DistrictName": "ARSUZ",
+    "NumberPlate": 31,
+    "Population": 99480
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "HATAY",
+    "DistrictName": "BELEN",
+    "NumberPlate": 31,
+    "Population": 34134
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "HATAY",
+    "DistrictName": "DEFNE",
+    "NumberPlate": 31,
+    "Population": 162199
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "HATAY",
+    "DistrictName": "DÖRTYOL",
+    "NumberPlate": 31,
+    "Population": 127989
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "HATAY",
+    "DistrictName": "ERZİN",
+    "NumberPlate": 31,
+    "Population": 41677
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "HATAY",
+    "DistrictName": "HASSA",
+    "NumberPlate": 31,
+    "Population": 56952
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "HATAY",
+    "DistrictName": "İSKENDERUN",
+    "NumberPlate": 31,
+    "Population": 250976
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "HATAY",
+    "DistrictName": "KIRIKHAN",
+    "NumberPlate": 31,
+    "Population": 119854
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "HATAY",
+    "DistrictName": "KUMLU",
+    "NumberPlate": 31,
+    "Population": 13384
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "HATAY",
+    "DistrictName": "PAYAS",
+    "NumberPlate": 31,
+    "Population": 43495
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "HATAY",
+    "DistrictName": "REYHANLI",
+    "NumberPlate": 31,
+    "Population": 105309
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "HATAY",
+    "DistrictName": "SAMANDAĞ",
+    "NumberPlate": 31,
+    "Population": 123999
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "HATAY",
+    "DistrictName": "YAYLADAĞI",
+    "NumberPlate": 31,
+    "Population": 36769
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "IĞDIR",
+    "DistrictName": "ARALIK",
+    "NumberPlate": 76,
+    "Population": 21142
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "IĞDIR",
+    "DistrictName": "KARAKOYUNLU",
+    "NumberPlate": 76,
+    "Population": 13816
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "IĞDIR",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 76,
+    "Population": 144663
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "IĞDIR",
+    "DistrictName": "TUZLUCA",
+    "NumberPlate": 76,
+    "Population": 23538
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ISPARTA",
+    "DistrictName": "AKSU",
+    "NumberPlate": 32,
+    "Population": 4233
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ISPARTA",
+    "DistrictName": "ATABEY",
+    "NumberPlate": 32,
+    "Population": 5790
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ISPARTA",
+    "DistrictName": "EĞİRDİR",
+    "NumberPlate": 32,
+    "Population": 31308
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ISPARTA",
+    "DistrictName": "GELENDOST",
+    "NumberPlate": 32,
+    "Population": 15059
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ISPARTA",
+    "DistrictName": "GÖNEN",
+    "NumberPlate": 32,
+    "Population": 7003
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ISPARTA",
+    "DistrictName": "KEÇİBORLU",
+    "NumberPlate": 32,
+    "Population": 13984
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ISPARTA",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 32,
+    "Population": 266982
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ISPARTA",
+    "DistrictName": "SENİRKENT",
+    "NumberPlate": 32,
+    "Population": 10977
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ISPARTA",
+    "DistrictName": "SÜTÇÜLER",
+    "NumberPlate": 32,
+    "Population": 10081
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ISPARTA",
+    "DistrictName": "ŞARKİKARAAĞAÇ",
+    "NumberPlate": 32,
+    "Population": 25109
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ISPARTA",
+    "DistrictName": "ULUBORLU",
+    "NumberPlate": 32,
+    "Population": 6383
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ISPARTA",
+    "DistrictName": "YALVAÇ",
+    "NumberPlate": 32,
+    "Population": 46177
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "ISPARTA",
+    "DistrictName": "YENİŞARBADEMLİ",
+    "NumberPlate": 32,
+    "Population": 2592
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "ADALAR",
+    "NumberPlate": 34,
+    "Population": 16372
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "ARNAVUTKÖY",
+    "NumberPlate": 34,
+    "Population": 312023
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "ATAŞEHİR",
+    "NumberPlate": 34,
+    "Population": 427217
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "AVCILAR",
+    "NumberPlate": 34,
+    "Population": 457981
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "BAĞCILAR",
+    "NumberPlate": 34,
+    "Population": 744351
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "BAHÇELİEVLER",
+    "NumberPlate": 34,
+    "Population": 605300
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "BAKIRKÖY",
+    "NumberPlate": 34,
+    "Population": 228759
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "BAŞAKŞEHİR",
+    "NumberPlate": 34,
+    "Population": 503243
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "BAYRAMPAŞA",
+    "NumberPlate": 34,
+    "Population": 274884
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "BEŞİKTAŞ",
+    "NumberPlate": 34,
+    "Population": 178938
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "BEYKOZ",
+    "NumberPlate": 34,
+    "Population": 248595
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "BEYLİKDÜZÜ",
+    "NumberPlate": 34,
+    "Population": 398122
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "BEYOĞLU",
+    "NumberPlate": 34,
+    "Population": 233322
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "BÜYÜKÇEKMECE",
+    "NumberPlate": 34,
+    "Population": 269160
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "ÇATALCA",
+    "NumberPlate": 34,
+    "Population": 76131
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "ÇEKMEKÖY",
+    "NumberPlate": 34,
+    "Population": 288585
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "ESENLER",
+    "NumberPlate": 34,
+    "Population": 447116
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "ESENYURT",
+    "NumberPlate": 34,
+    "Population": 977489
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "EYÜP",
+    "NumberPlate": 34,
+    "Population": 417360
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "FATİH",
+    "NumberPlate": 34,
+    "Population": 382990
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "GAZİOSMANPAŞA",
+    "NumberPlate": 34,
+    "Population": 493096
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "GÜNGÖREN",
+    "NumberPlate": 34,
+    "Population": 283083
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "KADIKÖY",
+    "NumberPlate": 34,
+    "Population": 485233
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "KAĞITHANE",
+    "NumberPlate": 34,
+    "Population": 454550
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "KARTAL",
+    "NumberPlate": 34,
+    "Population": 480738
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "KÜÇÜKÇEKMECE",
+    "NumberPlate": 34,
+    "Population": 805930
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "MALTEPE",
+    "NumberPlate": 34,
+    "Population": 525566
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "PENDİK",
+    "NumberPlate": 34,
+    "Population": 741895
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "SANCAKTEPE",
+    "NumberPlate": 34,
+    "Population": 474668
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "SARIYER",
+    "NumberPlate": 34,
+    "Population": 349968
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "SİLİVRİ",
+    "NumberPlate": 34,
+    "Population": 209014
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "SULTANBEYLİ",
+    "NumberPlate": 34,
+    "Population": 349485
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "SULTANGAZİ",
+    "NumberPlate": 34,
+    "Population": 543380
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "ŞİLE",
+    "NumberPlate": 34,
+    "Population": 41627
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "ŞİŞLİ",
+    "NumberPlate": 34,
+    "Population": 284294
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "TUZLA",
+    "NumberPlate": 34,
+    "Population": 284443
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "ÜMRANİYE",
+    "NumberPlate": 34,
+    "Population": 726758
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "ÜSKÜDAR",
+    "NumberPlate": 34,
+    "Population": 525395
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "İSTANBUL",
+    "DistrictName": "ZEYTİNBURNU",
+    "NumberPlate": 34,
+    "Population": 293839
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "ALİAĞA",
+    "NumberPlate": 35,
+    "Population": 103364
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "BALÇOVA",
+    "NumberPlate": 35,
+    "Population": 80513
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "BAYINDIR",
+    "NumberPlate": 35,
+    "Population": 40049
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "BAYRAKLI",
+    "NumberPlate": 35,
+    "Population": 296839
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "BERGAMA",
+    "NumberPlate": 35,
+    "Population": 104980
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "BEYDAĞ",
+    "NumberPlate": 35,
+    "Population": 12197
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "BORNOVA",
+    "NumberPlate": 35,
+    "Population": 452867
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "BUCA",
+    "NumberPlate": 35,
+    "Population": 517963
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "ÇEŞME",
+    "NumberPlate": 35,
+    "Population": 48167
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "ÇİĞLİ",
+    "NumberPlate": 35,
+    "Population": 209951
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "DİKİLİ",
+    "NumberPlate": 35,
+    "Population": 46587
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "FOÇA",
+    "NumberPlate": 35,
+    "Population": 33611
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "GAZİEMİR",
+    "NumberPlate": 35,
+    "Population": 137856
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "GÜZELBAHÇE",
+    "NumberPlate": 35,
+    "Population": 37572
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "KARABAĞLAR",
+    "NumberPlate": 35,
+    "Population": 478788
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "KARABURUN",
+    "NumberPlate": 35,
+    "Population": 11927
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "KARŞIYAKA",
+    "NumberPlate": 35,
+    "Population": 347023
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "KEMALPAŞA",
+    "NumberPlate": 35,
+    "Population": 112049
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "KINIK",
+    "NumberPlate": 35,
+    "Population": 28513
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "KİRAZ",
+    "NumberPlate": 35,
+    "Population": 43674
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "KONAK",
+    "NumberPlate": 35,
+    "Population": 336545
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "MENDERES",
+    "NumberPlate": 35,
+    "Population": 104147
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "MENEMEN",
+    "NumberPlate": 35,
+    "Population": 193229
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "NARLIDERE",
+    "NumberPlate": 35,
+    "Population": 63438
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "ÖDEMİŞ",
+    "NumberPlate": 35,
+    "Population": 132769
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "SEFERİHİSAR",
+    "NumberPlate": 35,
+    "Population": 52507
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "SELÇUK",
+    "NumberPlate": 35,
+    "Population": 37689
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "TİRE",
+    "NumberPlate": 35,
+    "Population": 86758
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "TORBALI",
+    "NumberPlate": 35,
+    "Population": 201476
+  },
+  {
+    "Region": "EGE",
+    "CityName": "İZMİR",
+    "DistrictName": "URLA",
+    "NumberPlate": 35,
+    "Population": 72741
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "KAHRAMANMARAŞ",
+    "DistrictName": "AFŞİN",
+    "NumberPlate": 46,
+    "Population": 80138
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "KAHRAMANMARAŞ",
+    "DistrictName": "ANDIRIN",
+    "NumberPlate": 46,
+    "Population": 31765
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "KAHRAMANMARAŞ",
+    "DistrictName": "ÇAĞLAYANCERİT",
+    "NumberPlate": 46,
+    "Population": 22893
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "KAHRAMANMARAŞ",
+    "DistrictName": "DULKADİROĞLU",
+    "NumberPlate": 46,
+    "Population": 223532
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "KAHRAMANMARAŞ",
+    "DistrictName": "EKİNÖZÜ",
+    "NumberPlate": 46,
+    "Population": 10631
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "KAHRAMANMARAŞ",
+    "DistrictName": "ELBİSTAN",
+    "NumberPlate": 46,
+    "Population": 141977
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "KAHRAMANMARAŞ",
+    "DistrictName": "GÖKSUN",
+    "NumberPlate": 46,
+    "Population": 51255
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "KAHRAMANMARAŞ",
+    "DistrictName": "NURHAK",
+    "NumberPlate": 46,
+    "Population": 12323
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "KAHRAMANMARAŞ",
+    "DistrictName": "ONİKİŞUBAT",
+    "NumberPlate": 46,
+    "Population": 448317
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "KAHRAMANMARAŞ",
+    "DistrictName": "PAZARCIK",
+    "NumberPlate": 46,
+    "Population": 69879
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "KAHRAMANMARAŞ",
+    "DistrictName": "TÜRKOĞLU",
+    "NumberPlate": 46,
+    "Population": 78588
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KARABÜK",
+    "DistrictName": "EFLANİ",
+    "NumberPlate": 78,
+    "Population": 8409
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KARABÜK",
+    "DistrictName": "ESKİPAZAR",
+    "NumberPlate": 78,
+    "Population": 12550
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KARABÜK",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 78,
+    "Population": 135351
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KARABÜK",
+    "DistrictName": "OVACIK",
+    "NumberPlate": 78,
+    "Population": 3674
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KARABÜK",
+    "DistrictName": "SAFRANBOLU",
+    "NumberPlate": 78,
+    "Population": 69449
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KARABÜK",
+    "DistrictName": "YENİCE",
+    "NumberPlate": 78,
+    "Population": 19854
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KARAMAN",
+    "DistrictName": "AYRANCI",
+    "NumberPlate": 70,
+    "Population": 7859
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KARAMAN",
+    "DistrictName": "BAŞYAYLA",
+    "NumberPlate": 70,
+    "Population": 3508
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KARAMAN",
+    "DistrictName": "ERMENEK",
+    "NumberPlate": 70,
+    "Population": 27843
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KARAMAN",
+    "DistrictName": "KAZIMKARABEKİR",
+    "NumberPlate": 70,
+    "Population": 4404
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KARAMAN",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 70,
+    "Population": 203830
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KARAMAN",
+    "DistrictName": "SARIVELİLER",
+    "NumberPlate": 70,
+    "Population": 11394
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "KARS",
+    "DistrictName": "AKYAKA",
+    "NumberPlate": 36,
+    "Population": 10353
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "KARS",
+    "DistrictName": "ARPAÇAY",
+    "NumberPlate": 36,
+    "Population": 15922
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "KARS",
+    "DistrictName": "DİGOR",
+    "NumberPlate": 36,
+    "Population": 21088
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "KARS",
+    "DistrictName": "KAĞIZMAN",
+    "NumberPlate": 36,
+    "Population": 45079
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "KARS",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 36,
+    "Population": 117312
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "KARS",
+    "DistrictName": "SARIKAMIŞ",
+    "NumberPlate": 36,
+    "Population": 39486
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "KARS",
+    "DistrictName": "SELİM",
+    "NumberPlate": 36,
+    "Population": 22267
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "KARS",
+    "DistrictName": "SUSUZ",
+    "NumberPlate": 36,
+    "Population": 9570
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KASTAMONU",
+    "DistrictName": "ABANA",
+    "NumberPlate": 37,
+    "Population": 4027
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KASTAMONU",
+    "DistrictName": "AĞLI",
+    "NumberPlate": 37,
+    "Population": 3006
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KASTAMONU",
+    "DistrictName": "ARAÇ",
+    "NumberPlate": 37,
+    "Population": 17920
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KASTAMONU",
+    "DistrictName": "AZDAVAY",
+    "NumberPlate": 37,
+    "Population": 7290
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KASTAMONU",
+    "DistrictName": "BOZKURT",
+    "NumberPlate": 37,
+    "Population": 9170
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KASTAMONU",
+    "DistrictName": "CİDE",
+    "NumberPlate": 37,
+    "Population": 22136
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KASTAMONU",
+    "DistrictName": "ÇATALZEYTİN",
+    "NumberPlate": 37,
+    "Population": 7229
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KASTAMONU",
+    "DistrictName": "DADAY",
+    "NumberPlate": 37,
+    "Population": 8073
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KASTAMONU",
+    "DistrictName": "DEVREKANİ",
+    "NumberPlate": 37,
+    "Population": 12132
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KASTAMONU",
+    "DistrictName": "DOĞANYURT",
+    "NumberPlate": 37,
+    "Population": 5428
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KASTAMONU",
+    "DistrictName": "HANÖNÜ",
+    "NumberPlate": 37,
+    "Population": 4134
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KASTAMONU",
+    "DistrictName": "İHSANGAZİ",
+    "NumberPlate": 37,
+    "Population": 5292
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KASTAMONU",
+    "DistrictName": "İNEBOLU",
+    "NumberPlate": 37,
+    "Population": 20675
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KASTAMONU",
+    "DistrictName": "KÜRE",
+    "NumberPlate": 37,
+    "Population": 5431
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KASTAMONU",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 37,
+    "Population": 152541
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KASTAMONU",
+    "DistrictName": "PINARBAŞI",
+    "NumberPlate": 37,
+    "Population": 5688
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KASTAMONU",
+    "DistrictName": "SEYDİLER",
+    "NumberPlate": 37,
+    "Population": 4289
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KASTAMONU",
+    "DistrictName": "ŞENPAZAR",
+    "NumberPlate": 37,
+    "Population": 4304
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KASTAMONU",
+    "DistrictName": "TAŞKÖPRÜ",
+    "NumberPlate": 37,
+    "Population": 37119
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "KASTAMONU",
+    "DistrictName": "TOSYA",
+    "NumberPlate": 37,
+    "Population": 39708
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KAYSERİ",
+    "DistrictName": "AKKIŞLA",
+    "NumberPlate": 38,
+    "Population": 5804
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KAYSERİ",
+    "DistrictName": "BÜNYAN",
+    "NumberPlate": 38,
+    "Population": 30099
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KAYSERİ",
+    "DistrictName": "DEVELİ",
+    "NumberPlate": 38,
+    "Population": 66507
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KAYSERİ",
+    "DistrictName": "FELAHİYE",
+    "NumberPlate": 38,
+    "Population": 5536
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KAYSERİ",
+    "DistrictName": "HACILAR",
+    "NumberPlate": 38,
+    "Population": 12471
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KAYSERİ",
+    "DistrictName": "İNCESU",
+    "NumberPlate": 38,
+    "Population": 28755
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KAYSERİ",
+    "DistrictName": "KOCASİNAN",
+    "NumberPlate": 38,
+    "Population": 404780
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KAYSERİ",
+    "DistrictName": "MELİKGAZİ",
+    "NumberPlate": 38,
+    "Population": 589852
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KAYSERİ",
+    "DistrictName": "ÖZVATAN",
+    "NumberPlate": 38,
+    "Population": 3800
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KAYSERİ",
+    "DistrictName": "PINARBAŞI",
+    "NumberPlate": 38,
+    "Population": 21903
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KAYSERİ",
+    "DistrictName": "SARIOĞLAN",
+    "NumberPlate": 38,
+    "Population": 13777
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KAYSERİ",
+    "DistrictName": "SARIZ",
+    "NumberPlate": 38,
+    "Population": 9321
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KAYSERİ",
+    "DistrictName": "TALAS",
+    "NumberPlate": 38,
+    "Population": 168783
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KAYSERİ",
+    "DistrictName": "TOMARZA",
+    "NumberPlate": 38,
+    "Population": 21630
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KAYSERİ",
+    "DistrictName": "YAHYALI",
+    "NumberPlate": 38,
+    "Population": 35674
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KAYSERİ",
+    "DistrictName": "YEŞİLHİSAR",
+    "NumberPlate": 38,
+    "Population": 15665
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KIRIKKALE",
+    "DistrictName": "BAHŞİLİ",
+    "NumberPlate": 71,
+    "Population": 7247
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KIRIKKALE",
+    "DistrictName": "BALIŞEYH",
+    "NumberPlate": 71,
+    "Population": 5898
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KIRIKKALE",
+    "DistrictName": "ÇELEBİ",
+    "NumberPlate": 71,
+    "Population": 2302
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KIRIKKALE",
+    "DistrictName": "DELİCE",
+    "NumberPlate": 71,
+    "Population": 8391
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KIRIKKALE",
+    "DistrictName": "KARAKEÇİLİ",
+    "NumberPlate": 71,
+    "Population": 3054
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KIRIKKALE",
+    "DistrictName": "KESKİN",
+    "NumberPlate": 71,
+    "Population": 15659
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KIRIKKALE",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 71,
+    "Population": 195661
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KIRIKKALE",
+    "DistrictName": "SULAKYURT",
+    "NumberPlate": 71,
+    "Population": 6212
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KIRIKKALE",
+    "DistrictName": "YAHŞİHAN",
+    "NumberPlate": 71,
+    "Population": 31544
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "KIRKLARELİ",
+    "DistrictName": "BABAESKİ",
+    "NumberPlate": 39,
+    "Population": 46624
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "KIRKLARELİ",
+    "DistrictName": "DEMİRKÖY",
+    "NumberPlate": 39,
+    "Population": 8871
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "KIRKLARELİ",
+    "DistrictName": "KOFÇAZ",
+    "NumberPlate": 39,
+    "Population": 2251
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "KIRKLARELİ",
+    "DistrictName": "LÜLEBURGAZ",
+    "NumberPlate": 39,
+    "Population": 153027
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "KIRKLARELİ",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 39,
+    "Population": 105525
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "KIRKLARELİ",
+    "DistrictName": "PEHLİVANKÖY",
+    "NumberPlate": 39,
+    "Population": 3445
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "KIRKLARELİ",
+    "DistrictName": "PINARHİSAR",
+    "NumberPlate": 39,
+    "Population": 17806
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "KIRKLARELİ",
+    "DistrictName": "VİZE",
+    "NumberPlate": 39,
+    "Population": 28814
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KIRŞEHİR",
+    "DistrictName": "AKÇAKENT",
+    "NumberPlate": 40,
+    "Population": 3566
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KIRŞEHİR",
+    "DistrictName": "AKPINAR",
+    "NumberPlate": 40,
+    "Population": 7094
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KIRŞEHİR",
+    "DistrictName": "BOZTEPE",
+    "NumberPlate": 40,
+    "Population": 5197
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KIRŞEHİR",
+    "DistrictName": "ÇİÇEKDAĞI",
+    "NumberPlate": 40,
+    "Population": 13505
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KIRŞEHİR",
+    "DistrictName": "KAMAN",
+    "NumberPlate": 40,
+    "Population": 34626
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KIRŞEHİR",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 40,
+    "Population": 160737
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KIRŞEHİR",
+    "DistrictName": "MUCUR",
+    "NumberPlate": 40,
+    "Population": 18219
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "KİLİS",
+    "DistrictName": "ELBEYLİ",
+    "NumberPlate": 79,
+    "Population": 5679
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "KİLİS",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 79,
+    "Population": 122288
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "KİLİS",
+    "DistrictName": "MUSABEYLİ",
+    "NumberPlate": 79,
+    "Population": 12861
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "KİLİS",
+    "DistrictName": "POLATELİ",
+    "NumberPlate": 79,
+    "Population": 4998
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "KOCAELİ",
+    "DistrictName": "BAŞİSKELE",
+    "NumberPlate": 41,
+    "Population": 111641
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "KOCAELİ",
+    "DistrictName": "ÇAYIROVA",
+    "NumberPlate": 41,
+    "Population": 144825
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "KOCAELİ",
+    "DistrictName": "DARICA",
+    "NumberPlate": 41,
+    "Population": 219546
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "KOCAELİ",
+    "DistrictName": "DERİNCE",
+    "NumberPlate": 41,
+    "Population": 144287
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "KOCAELİ",
+    "DistrictName": "DİLOVASI",
+    "NumberPlate": 41,
+    "Population": 51866
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "KOCAELİ",
+    "DistrictName": "GEBZE",
+    "NumberPlate": 41,
+    "Population": 399558
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "KOCAELİ",
+    "DistrictName": "GÖLCÜK",
+    "NumberPlate": 41,
+    "Population": 172802
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "KOCAELİ",
+    "DistrictName": "İZMİT",
+    "NumberPlate": 41,
+    "Population": 371002
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "KOCAELİ",
+    "DistrictName": "KANDIRA",
+    "NumberPlate": 41,
+    "Population": 52930
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "KOCAELİ",
+    "DistrictName": "KARAMÜRSEL",
+    "NumberPlate": 41,
+    "Population": 58936
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "KOCAELİ",
+    "DistrictName": "KARTEPE",
+    "NumberPlate": 41,
+    "Population": 131416
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "KOCAELİ",
+    "DistrictName": "KÖRFEZ",
+    "NumberPlate": 41,
+    "Population": 174632
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "AHIRLI",
+    "NumberPlate": 42,
+    "Population": 4550
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "AKÖREN",
+    "NumberPlate": 42,
+    "Population": 5784
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "AKŞEHİR",
+    "NumberPlate": 42,
+    "Population": 93830
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "ALTINEKİN",
+    "NumberPlate": 42,
+    "Population": 14178
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "BEYŞEHİR",
+    "NumberPlate": 42,
+    "Population": 77137
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "BOZKIR",
+    "NumberPlate": 42,
+    "Population": 25600
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "CİHANBEYLİ",
+    "NumberPlate": 42,
+    "Population": 51434
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "ÇELTİK",
+    "NumberPlate": 42,
+    "Population": 9635
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "ÇUMRA",
+    "NumberPlate": 42,
+    "Population": 67631
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "DERBENT",
+    "NumberPlate": 42,
+    "Population": 4086
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "DEREBUCAK",
+    "NumberPlate": 42,
+    "Population": 5937
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "DOĞANHİSAR",
+    "NumberPlate": 42,
+    "Population": 15134
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "EMİRGAZİ",
+    "NumberPlate": 42,
+    "Population": 7876
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "EREĞLİ",
+    "NumberPlate": 42,
+    "Population": 149333
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "GÜNEYSINIR",
+    "NumberPlate": 42,
+    "Population": 9278
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "HADİM",
+    "NumberPlate": 42,
+    "Population": 11171
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "HALKAPINAR",
+    "NumberPlate": 42,
+    "Population": 3883
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "HÜYÜK",
+    "NumberPlate": 42,
+    "Population": 15405
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "ILGIN",
+    "NumberPlate": 42,
+    "Population": 53638
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "KADINHANI",
+    "NumberPlate": 42,
+    "Population": 31336
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "KARAPINAR",
+    "NumberPlate": 42,
+    "Population": 50055
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "KARATAY",
+    "NumberPlate": 42,
+    "Population": 362177
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "KULU",
+    "NumberPlate": 42,
+    "Population": 51702
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "MERAM",
+    "NumberPlate": 42,
+    "Population": 345360
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "SARAYÖNÜ",
+    "NumberPlate": 42,
+    "Population": 27738
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "SELÇUKLU",
+    "NumberPlate": 42,
+    "Population": 682514
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "SEYDİŞEHİR",
+    "NumberPlate": 42,
+    "Population": 65381
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "TAŞKENT",
+    "NumberPlate": 42,
+    "Population": 5780
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "TUZLUKÇU",
+    "NumberPlate": 42,
+    "Population": 6234
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "YALIHÜYÜK",
+    "NumberPlate": 42,
+    "Population": 1532
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "KONYA",
+    "DistrictName": "YUNAK",
+    "NumberPlate": 42,
+    "Population": 21688
+  },
+  {
+    "Region": "EGE",
+    "CityName": "KÜTAHYA",
+    "DistrictName": "ALTINTAŞ",
+    "NumberPlate": 43,
+    "Population": 15506
+  },
+  {
+    "Region": "EGE",
+    "CityName": "KÜTAHYA",
+    "DistrictName": "ASLANAPA",
+    "NumberPlate": 43,
+    "Population": 8535
+  },
+  {
+    "Region": "EGE",
+    "CityName": "KÜTAHYA",
+    "DistrictName": "ÇAVDARHİSAR",
+    "NumberPlate": 43,
+    "Population": 5892
+  },
+  {
+    "Region": "EGE",
+    "CityName": "KÜTAHYA",
+    "DistrictName": "DOMANİÇ",
+    "NumberPlate": 43,
+    "Population": 14225
+  },
+  {
+    "Region": "EGE",
+    "CityName": "KÜTAHYA",
+    "DistrictName": "DUMLUPINAR",
+    "NumberPlate": 43,
+    "Population": 2944
+  },
+  {
+    "Region": "EGE",
+    "CityName": "KÜTAHYA",
+    "DistrictName": "EMET",
+    "NumberPlate": 43,
+    "Population": 19380
+  },
+  {
+    "Region": "EGE",
+    "CityName": "KÜTAHYA",
+    "DistrictName": "GEDİZ",
+    "NumberPlate": 43,
+    "Population": 50102
+  },
+  {
+    "Region": "EGE",
+    "CityName": "KÜTAHYA",
+    "DistrictName": "HİSARCIK",
+    "NumberPlate": 43,
+    "Population": 11491
+  },
+  {
+    "Region": "EGE",
+    "CityName": "KÜTAHYA",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 43,
+    "Population": 277270
+  },
+  {
+    "Region": "EGE",
+    "CityName": "KÜTAHYA",
+    "DistrictName": "PAZARLAR",
+    "NumberPlate": 43,
+    "Population": 4813
+  },
+  {
+    "Region": "EGE",
+    "CityName": "KÜTAHYA",
+    "DistrictName": "SİMAV",
+    "NumberPlate": 43,
+    "Population": 61845
+  },
+  {
+    "Region": "EGE",
+    "CityName": "KÜTAHYA",
+    "DistrictName": "ŞAPHANE",
+    "NumberPlate": 43,
+    "Population": 5805
+  },
+  {
+    "Region": "EGE",
+    "CityName": "KÜTAHYA",
+    "DistrictName": "TAVŞANLI",
+    "NumberPlate": 43,
+    "Population": 100832
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "MALATYA",
+    "DistrictName": "AKÇADAĞ",
+    "NumberPlate": 44,
+    "Population": 28283
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "MALATYA",
+    "DistrictName": "ARAPGİR",
+    "NumberPlate": 44,
+    "Population": 10119
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "MALATYA",
+    "DistrictName": "ARGUVAN",
+    "NumberPlate": 44,
+    "Population": 7105
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "MALATYA",
+    "DistrictName": "BATTALGAZİ",
+    "NumberPlate": 44,
+    "Population": 304750
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "MALATYA",
+    "DistrictName": "DARENDE",
+    "NumberPlate": 44,
+    "Population": 24923
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "MALATYA",
+    "DistrictName": "DOĞANŞEHİR",
+    "NumberPlate": 44,
+    "Population": 38136
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "MALATYA",
+    "DistrictName": "DOĞANYOL",
+    "NumberPlate": 44,
+    "Population": 3794
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "MALATYA",
+    "DistrictName": "HEKİMHAN",
+    "NumberPlate": 44,
+    "Population": 16381
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "MALATYA",
+    "DistrictName": "KALE",
+    "NumberPlate": 44,
+    "Population": 5503
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "MALATYA",
+    "DistrictName": "KULUNCAK",
+    "NumberPlate": 44,
+    "Population": 7244
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "MALATYA",
+    "DistrictName": "PÜTÜRGE",
+    "NumberPlate": 44,
+    "Population": 12976
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "MALATYA",
+    "DistrictName": "YAZIHAN",
+    "NumberPlate": 44,
+    "Population": 12429
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "MALATYA",
+    "DistrictName": "YEŞİLYURT",
+    "NumberPlate": 44,
+    "Population": 337049
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MANİSA",
+    "DistrictName": "AHMETLİ",
+    "NumberPlate": 45,
+    "Population": 16807
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MANİSA",
+    "DistrictName": "AKHİSAR",
+    "NumberPlate": 45,
+    "Population": 176000
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MANİSA",
+    "DistrictName": "ALAŞEHİR",
+    "NumberPlate": 45,
+    "Population": 105380
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MANİSA",
+    "DistrictName": "DEMİRCİ",
+    "NumberPlate": 45,
+    "Population": 37021
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MANİSA",
+    "DistrictName": "GÖLMARMARA",
+    "NumberPlate": 45,
+    "Population": 15197
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MANİSA",
+    "DistrictName": "GÖRDES",
+    "NumberPlate": 45,
+    "Population": 26858
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MANİSA",
+    "DistrictName": "KIRKAĞAÇ",
+    "NumberPlate": 45,
+    "Population": 37699
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MANİSA",
+    "DistrictName": "KÖPRÜBAŞI",
+    "NumberPlate": 45,
+    "Population": 12811
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MANİSA",
+    "DistrictName": "KULA",
+    "NumberPlate": 45,
+    "Population": 43421
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MANİSA",
+    "DistrictName": "SALİHLİ",
+    "NumberPlate": 45,
+    "Population": 164710
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MANİSA",
+    "DistrictName": "SARIGÖL",
+    "NumberPlate": 45,
+    "Population": 35766
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MANİSA",
+    "DistrictName": "SARUHANLI",
+    "NumberPlate": 45,
+    "Population": 56166
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MANİSA",
+    "DistrictName": "SELENDİ",
+    "NumberPlate": 45,
+    "Population": 19505
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MANİSA",
+    "DistrictName": "SOMA",
+    "NumberPlate": 45,
+    "Population": 111218
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MANİSA",
+    "DistrictName": "ŞEHZADELER",
+    "NumberPlate": 45,
+    "Population": 167661
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MANİSA",
+    "DistrictName": "TURGUTLU",
+    "NumberPlate": 45,
+    "Population": 172413
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MANİSA",
+    "DistrictName": "YUNUSEMRE",
+    "NumberPlate": 45,
+    "Population": 257993
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "MARDİN",
+    "DistrictName": "ARTUKLU",
+    "NumberPlate": 47,
+    "Population": 186622
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "MARDİN",
+    "DistrictName": "DARGEÇİT",
+    "NumberPlate": 47,
+    "Population": 27307
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "MARDİN",
+    "DistrictName": "DERİK",
+    "NumberPlate": 47,
+    "Population": 62203
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "MARDİN",
+    "DistrictName": "KIZILTEPE",
+    "NumberPlate": 47,
+    "Population": 263938
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "MARDİN",
+    "DistrictName": "MAZIDAĞI",
+    "NumberPlate": 47,
+    "Population": 36773
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "MARDİN",
+    "DistrictName": "MİDYAT",
+    "NumberPlate": 47,
+    "Population": 118625
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "MARDİN",
+    "DistrictName": "NUSAYBİN",
+    "NumberPlate": 47,
+    "Population": 113728
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "MARDİN",
+    "DistrictName": "ÖMERLİ",
+    "NumberPlate": 47,
+    "Population": 13970
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "MARDİN",
+    "DistrictName": "SAVUR",
+    "NumberPlate": 47,
+    "Population": 25496
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "MARDİN",
+    "DistrictName": "YEŞİLLİ",
+    "NumberPlate": 47,
+    "Population": 14095
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "MERSİN",
+    "DistrictName": "AKDENİZ",
+    "NumberPlate": 33,
+    "Population": 255682
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "MERSİN",
+    "DistrictName": "ANAMUR",
+    "NumberPlate": 33,
+    "Population": 66828
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "MERSİN",
+    "DistrictName": "AYDINCIK",
+    "NumberPlate": 33,
+    "Population": 11314
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "MERSİN",
+    "DistrictName": "BOZYAZI",
+    "NumberPlate": 33,
+    "Population": 26910
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "MERSİN",
+    "DistrictName": "ÇAMLIYAYLA",
+    "NumberPlate": 33,
+    "Population": 8208
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "MERSİN",
+    "DistrictName": "ERDEMLİ",
+    "NumberPlate": 33,
+    "Population": 147512
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "MERSİN",
+    "DistrictName": "GÜLNAR",
+    "NumberPlate": 33,
+    "Population": 27557
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "MERSİN",
+    "DistrictName": "MEZİTLİ",
+    "NumberPlate": 33,
+    "Population": 218816
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "MERSİN",
+    "DistrictName": "MUT",
+    "NumberPlate": 33,
+    "Population": 62803
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "MERSİN",
+    "DistrictName": "SİLİFKE",
+    "NumberPlate": 33,
+    "Population": 127849
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "MERSİN",
+    "DistrictName": "TARSUS",
+    "NumberPlate": 33,
+    "Population": 347314
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "MERSİN",
+    "DistrictName": "TOROSLAR",
+    "NumberPlate": 33,
+    "Population": 315408
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "MERSİN",
+    "DistrictName": "YENİŞEHİR",
+    "NumberPlate": 33,
+    "Population": 274944
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MUĞLA",
+    "DistrictName": "BODRUM",
+    "NumberPlate": 48,
+    "Population": 187284
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MUĞLA",
+    "DistrictName": "DALAMAN",
+    "NumberPlate": 48,
+    "Population": 44386
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MUĞLA",
+    "DistrictName": "DATÇA",
+    "NumberPlate": 48,
+    "Population": 24519
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MUĞLA",
+    "DistrictName": "FETHİYE",
+    "NumberPlate": 48,
+    "Population": 170379
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MUĞLA",
+    "DistrictName": "KAVAKLIDERE",
+    "NumberPlate": 48,
+    "Population": 10842
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MUĞLA",
+    "DistrictName": "KÖYCEĞİZ",
+    "NumberPlate": 48,
+    "Population": 38425
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MUĞLA",
+    "DistrictName": "MARMARİS",
+    "NumberPlate": 48,
+    "Population": 95849
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MUĞLA",
+    "DistrictName": "MENTEŞE",
+    "NumberPlate": 48,
+    "Population": 118443
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MUĞLA",
+    "DistrictName": "MİLAS",
+    "NumberPlate": 48,
+    "Population": 145275
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MUĞLA",
+    "DistrictName": "ORTACA",
+    "NumberPlate": 48,
+    "Population": 52929
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MUĞLA",
+    "DistrictName": "SEYDİKEMER",
+    "NumberPlate": 48,
+    "Population": 61427
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MUĞLA",
+    "DistrictName": "ULA",
+    "NumberPlate": 48,
+    "Population": 26306
+  },
+  {
+    "Region": "EGE",
+    "CityName": "MUĞLA",
+    "DistrictName": "YATAĞAN",
+    "NumberPlate": 48,
+    "Population": 45077
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "MUŞ",
+    "DistrictName": "BULANIK",
+    "NumberPlate": 49,
+    "Population": 77592
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "MUŞ",
+    "DistrictName": "HASKÖY",
+    "NumberPlate": 49,
+    "Population": 25827
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "MUŞ",
+    "DistrictName": "KORKUT",
+    "NumberPlate": 49,
+    "Population": 24057
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "MUŞ",
+    "DistrictName": "MALAZGİRT",
+    "NumberPlate": 49,
+    "Population": 48192
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "MUŞ",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 49,
+    "Population": 198578
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "MUŞ",
+    "DistrictName": "VARTO",
+    "NumberPlate": 49,
+    "Population": 30982
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "NEVŞEHİR",
+    "DistrictName": "ACIGÖL",
+    "NumberPlate": 50,
+    "Population": 19211
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "NEVŞEHİR",
+    "DistrictName": "AVANOS",
+    "NumberPlate": 50,
+    "Population": 33047
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "NEVŞEHİR",
+    "DistrictName": "DERİNKUYU",
+    "NumberPlate": 50,
+    "Population": 20786
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "NEVŞEHİR",
+    "DistrictName": "GÜLŞEHİR",
+    "NumberPlate": 50,
+    "Population": 21504
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "NEVŞEHİR",
+    "DistrictName": "HACIBEKTAŞ",
+    "NumberPlate": 50,
+    "Population": 10933
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "NEVŞEHİR",
+    "DistrictName": "KOZAKLI",
+    "NumberPlate": 50,
+    "Population": 13044
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "NEVŞEHİR",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 50,
+    "Population": 153117
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "NEVŞEHİR",
+    "DistrictName": "ÜRGÜP",
+    "NumberPlate": 50,
+    "Population": 36361
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "NİĞDE",
+    "DistrictName": "ALTUNHİSAR",
+    "NumberPlate": 51,
+    "Population": 11934
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "NİĞDE",
+    "DistrictName": "BOR",
+    "NumberPlate": 51,
+    "Population": 60478
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "NİĞDE",
+    "DistrictName": "ÇAMARDI",
+    "NumberPlate": 51,
+    "Population": 11940
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "NİĞDE",
+    "DistrictName": "ÇİFTLİK",
+    "NumberPlate": 51,
+    "Population": 26206
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "NİĞDE",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 51,
+    "Population": 234118
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "NİĞDE",
+    "DistrictName": "ULUKIŞLA",
+    "NumberPlate": 51,
+    "Population": 19049
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ORDU",
+    "DistrictName": "AKKUŞ",
+    "NumberPlate": 52,
+    "Population": 21684
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ORDU",
+    "DistrictName": "ALTINORDU",
+    "NumberPlate": 52,
+    "Population": 229214
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ORDU",
+    "DistrictName": "AYBASTI",
+    "NumberPlate": 52,
+    "Population": 21682
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ORDU",
+    "DistrictName": "ÇAMAŞ",
+    "NumberPlate": 52,
+    "Population": 8434
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ORDU",
+    "DistrictName": "ÇATALPINAR",
+    "NumberPlate": 52,
+    "Population": 13217
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ORDU",
+    "DistrictName": "ÇAYBAŞI",
+    "NumberPlate": 52,
+    "Population": 12159
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ORDU",
+    "DistrictName": "FATSA",
+    "NumberPlate": 52,
+    "Population": 124255
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ORDU",
+    "DistrictName": "GÖLKÖY",
+    "NumberPlate": 52,
+    "Population": 27076
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ORDU",
+    "DistrictName": "GÜLYALI",
+    "NumberPlate": 52,
+    "Population": 8221
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ORDU",
+    "DistrictName": "GÜRGENTEPE",
+    "NumberPlate": 52,
+    "Population": 13112
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ORDU",
+    "DistrictName": "İKİZCE",
+    "NumberPlate": 52,
+    "Population": 13804
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ORDU",
+    "DistrictName": "KABADÜZ",
+    "NumberPlate": 52,
+    "Population": 7587
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ORDU",
+    "DistrictName": "KABATAŞ",
+    "NumberPlate": 52,
+    "Population": 10328
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ORDU",
+    "DistrictName": "KORGAN",
+    "NumberPlate": 52,
+    "Population": 27856
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ORDU",
+    "DistrictName": "KUMRU",
+    "NumberPlate": 52,
+    "Population": 29228
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ORDU",
+    "DistrictName": "MESUDİYE",
+    "NumberPlate": 52,
+    "Population": 13846
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ORDU",
+    "DistrictName": "PERŞEMBE",
+    "NumberPlate": 52,
+    "Population": 30616
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ORDU",
+    "DistrictName": "ULUBEY",
+    "NumberPlate": 52,
+    "Population": 17861
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ORDU",
+    "DistrictName": "ÜNYE",
+    "NumberPlate": 52,
+    "Population": 130692
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "OSMANİYE",
+    "DistrictName": "BAHÇE",
+    "NumberPlate": 80,
+    "Population": 22754
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "OSMANİYE",
+    "DistrictName": "DÜZİÇİ",
+    "NumberPlate": 80,
+    "Population": 85118
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "OSMANİYE",
+    "DistrictName": "HASANBEYLİ",
+    "NumberPlate": 80,
+    "Population": 4652
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "OSMANİYE",
+    "DistrictName": "KADİRLİ",
+    "NumberPlate": 80,
+    "Population": 126941
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "OSMANİYE",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 80,
+    "Population": 279992
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "OSMANİYE",
+    "DistrictName": "SUMBAS",
+    "NumberPlate": 80,
+    "Population": 13441
+  },
+  {
+    "Region": "AKDENİZ",
+    "CityName": "OSMANİYE",
+    "DistrictName": "TOPRAKKALE",
+    "NumberPlate": 80,
+    "Population": 20114
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "RİZE",
+    "DistrictName": "ARDEŞEN",
+    "NumberPlate": 53,
+    "Population": 42542
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "RİZE",
+    "DistrictName": "ÇAMLIHEMŞİN",
+    "NumberPlate": 53,
+    "Population": 6929
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "RİZE",
+    "DistrictName": "ÇAYELİ",
+    "NumberPlate": 53,
+    "Population": 43478
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "RİZE",
+    "DistrictName": "DEREPAZARI",
+    "NumberPlate": 53,
+    "Population": 7057
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "RİZE",
+    "DistrictName": "FINDIKLI",
+    "NumberPlate": 53,
+    "Population": 16487
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "RİZE",
+    "DistrictName": "GÜNEYSU",
+    "NumberPlate": 53,
+    "Population": 16066
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "RİZE",
+    "DistrictName": "HEMŞİN",
+    "NumberPlate": 53,
+    "Population": 2482
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "RİZE",
+    "DistrictName": "İKİZDERE",
+    "NumberPlate": 53,
+    "Population": 6409
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "RİZE",
+    "DistrictName": "İYİDERE",
+    "NumberPlate": 53,
+    "Population": 8609
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "RİZE",
+    "DistrictName": "KALKANDERE",
+    "NumberPlate": 53,
+    "Population": 13511
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "RİZE",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 53,
+    "Population": 150414
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "RİZE",
+    "DistrictName": "PAZAR",
+    "NumberPlate": 53,
+    "Population": 31678
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "SAKARYA",
+    "DistrictName": "ADAPAZARI",
+    "NumberPlate": 54,
+    "Population": 280214
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "SAKARYA",
+    "DistrictName": "AKYAZI",
+    "NumberPlate": 54,
+    "Population": 93087
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "SAKARYA",
+    "DistrictName": "ARİFİYE",
+    "NumberPlate": 54,
+    "Population": 47851
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "SAKARYA",
+    "DistrictName": "ERENLER",
+    "NumberPlate": 54,
+    "Population": 91602
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "SAKARYA",
+    "DistrictName": "FERİZLİ",
+    "NumberPlate": 54,
+    "Population": 27652
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "SAKARYA",
+    "DistrictName": "GEYVE",
+    "NumberPlate": 54,
+    "Population": 50332
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "SAKARYA",
+    "DistrictName": "HENDEK",
+    "NumberPlate": 54,
+    "Population": 88105
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "SAKARYA",
+    "DistrictName": "KARAPÜRÇEK",
+    "NumberPlate": 54,
+    "Population": 13181
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "SAKARYA",
+    "DistrictName": "KARASU",
+    "NumberPlate": 54,
+    "Population": 68844
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "SAKARYA",
+    "DistrictName": "KAYNARCA",
+    "NumberPlate": 54,
+    "Population": 24385
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "SAKARYA",
+    "DistrictName": "KOCAALİ",
+    "NumberPlate": 54,
+    "Population": 22732
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "SAKARYA",
+    "DistrictName": "PAMUKOVA",
+    "NumberPlate": 54,
+    "Population": 30028
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "SAKARYA",
+    "DistrictName": "SAPANCA",
+    "NumberPlate": 54,
+    "Population": 44001
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "SAKARYA",
+    "DistrictName": "SERDİVAN",
+    "NumberPlate": 54,
+    "Population": 157698
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "SAKARYA",
+    "DistrictName": "SÖĞÜTLÜ",
+    "NumberPlate": 54,
+    "Population": 14303
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "SAKARYA",
+    "DistrictName": "TARAKLI",
+    "NumberPlate": 54,
+    "Population": 6861
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SAMSUN",
+    "DistrictName": "ALAÇAM",
+    "NumberPlate": 55,
+    "Population": 24860
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SAMSUN",
+    "DistrictName": "ASARCIK",
+    "NumberPlate": 55,
+    "Population": 16278
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SAMSUN",
+    "DistrictName": "ATAKUM",
+    "NumberPlate": 55,
+    "Population": 238702
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SAMSUN",
+    "DistrictName": "AYVACIK",
+    "NumberPlate": 55,
+    "Population": 19436
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SAMSUN",
+    "DistrictName": "BAFRA",
+    "NumberPlate": 55,
+    "Population": 142341
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SAMSUN",
+    "DistrictName": "CANİK",
+    "NumberPlate": 55,
+    "Population": 99369
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SAMSUN",
+    "DistrictName": "ÇARŞAMBA",
+    "NumberPlate": 55,
+    "Population": 140439
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SAMSUN",
+    "DistrictName": "HAVZA",
+    "NumberPlate": 55,
+    "Population": 38872
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SAMSUN",
+    "DistrictName": "İLKADIM",
+    "NumberPlate": 55,
+    "Population": 340421
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SAMSUN",
+    "DistrictName": "KAVAK",
+    "NumberPlate": 55,
+    "Population": 21260
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SAMSUN",
+    "DistrictName": "LADİK",
+    "NumberPlate": 55,
+    "Population": 16320
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SAMSUN",
+    "DistrictName": "ONDOKUZMAYIS",
+    "NumberPlate": 55,
+    "Population": 26366
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SAMSUN",
+    "DistrictName": "SALIPAZARI",
+    "NumberPlate": 55,
+    "Population": 19305
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SAMSUN",
+    "DistrictName": "TEKKEKÖY",
+    "NumberPlate": 55,
+    "Population": 55369
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SAMSUN",
+    "DistrictName": "TERME",
+    "NumberPlate": 55,
+    "Population": 71366
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SAMSUN",
+    "DistrictName": "VEZİRKÖPRÜ",
+    "NumberPlate": 55,
+    "Population": 91978
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SAMSUN",
+    "DistrictName": "YAKAKENT",
+    "NumberPlate": 55,
+    "Population": 8592
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "SİİRT",
+    "DistrictName": "TİLLO",
+    "NumberPlate": 56,
+    "Population": 4272
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "SİİRT",
+    "DistrictName": "BAYKAN",
+    "NumberPlate": 56,
+    "Population": 24594
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "SİİRT",
+    "DistrictName": "ERUH",
+    "NumberPlate": 56,
+    "Population": 18101
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "SİİRT",
+    "DistrictName": "KURTALAN",
+    "NumberPlate": 56,
+    "Population": 60592
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "SİİRT",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 56,
+    "Population": 172824
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "SİİRT",
+    "DistrictName": "PERVARİ",
+    "NumberPlate": 56,
+    "Population": 30276
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "SİİRT",
+    "DistrictName": "ŞİRVAN",
+    "NumberPlate": 56,
+    "Population": 21321
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SİNOP",
+    "DistrictName": "AYANCIK",
+    "NumberPlate": 57,
+    "Population": 23739
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SİNOP",
+    "DistrictName": "BOYABAT",
+    "NumberPlate": 57,
+    "Population": 44004
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SİNOP",
+    "DistrictName": "DİKMEN",
+    "NumberPlate": 57,
+    "Population": 4753
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SİNOP",
+    "DistrictName": "DURAĞAN",
+    "NumberPlate": 57,
+    "Population": 16940
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SİNOP",
+    "DistrictName": "ERFELEK",
+    "NumberPlate": 57,
+    "Population": 12003
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SİNOP",
+    "DistrictName": "GERZE",
+    "NumberPlate": 57,
+    "Population": 27027
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SİNOP",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 57,
+    "Population": 68012
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SİNOP",
+    "DistrictName": "SARAYDÜZÜ",
+    "NumberPlate": 57,
+    "Population": 5926
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "SİNOP",
+    "DistrictName": "TÜRKELİ",
+    "NumberPlate": 57,
+    "Population": 16004
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "SİVAS",
+    "DistrictName": "AKINCILAR",
+    "NumberPlate": 58,
+    "Population": 4957
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "SİVAS",
+    "DistrictName": "ALTINYAYLA",
+    "NumberPlate": 58,
+    "Population": 8739
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "SİVAS",
+    "DistrictName": "DİVRİĞİ",
+    "NumberPlate": 58,
+    "Population": 16177
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "SİVAS",
+    "DistrictName": "DOĞANŞAR",
+    "NumberPlate": 58,
+    "Population": 2686
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "SİVAS",
+    "DistrictName": "GEMEREK",
+    "NumberPlate": 58,
+    "Population": 21810
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "SİVAS",
+    "DistrictName": "GÖLOVA",
+    "NumberPlate": 58,
+    "Population": 3168
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "SİVAS",
+    "DistrictName": "GÜRÜN",
+    "NumberPlate": 58,
+    "Population": 18286
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "SİVAS",
+    "DistrictName": "HAFİK",
+    "NumberPlate": 58,
+    "Population": 9155
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "SİVAS",
+    "DistrictName": "İMRANLI",
+    "NumberPlate": 58,
+    "Population": 7352
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "SİVAS",
+    "DistrictName": "KANGAL",
+    "NumberPlate": 58,
+    "Population": 20137
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "SİVAS",
+    "DistrictName": "KOYULHİSAR",
+    "NumberPlate": 58,
+    "Population": 12497
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "SİVAS",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 58,
+    "Population": 388079
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "SİVAS",
+    "DistrictName": "SUŞEHRİ",
+    "NumberPlate": 58,
+    "Population": 25404
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "SİVAS",
+    "DistrictName": "ŞARKIŞLA",
+    "NumberPlate": 58,
+    "Population": 37708
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "SİVAS",
+    "DistrictName": "ULAŞ",
+    "NumberPlate": 58,
+    "Population": 8005
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "SİVAS",
+    "DistrictName": "YILDIZELİ",
+    "NumberPlate": 58,
+    "Population": 30313
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "SİVAS",
+    "DistrictName": "ZARA",
+    "NumberPlate": 58,
+    "Population": 21648
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ŞANLIURFA",
+    "DistrictName": "AKÇAKALE",
+    "NumberPlate": 63,
+    "Population": 120834
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ŞANLIURFA",
+    "DistrictName": "BİRECİK",
+    "NumberPlate": 63,
+    "Population": 94608
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ŞANLIURFA",
+    "DistrictName": "BOZOVA",
+    "NumberPlate": 63,
+    "Population": 53878
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ŞANLIURFA",
+    "DistrictName": "CEYLANPINAR",
+    "NumberPlate": 63,
+    "Population": 89871
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ŞANLIURFA",
+    "DistrictName": "EYYÜBİYE",
+    "NumberPlate": 63,
+    "Population": 386852
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ŞANLIURFA",
+    "DistrictName": "HALFETİ",
+    "NumberPlate": 63,
+    "Population": 41663
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ŞANLIURFA",
+    "DistrictName": "HALİLİYE",
+    "NumberPlate": 63,
+    "Population": 392661
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ŞANLIURFA",
+    "DistrictName": "HARRAN",
+    "NumberPlate": 63,
+    "Population": 94207
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ŞANLIURFA",
+    "DistrictName": "HİLVAN",
+    "NumberPlate": 63,
+    "Population": 42766
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ŞANLIURFA",
+    "DistrictName": "KARAKÖPRÜ",
+    "NumberPlate": 63,
+    "Population": 252151
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ŞANLIURFA",
+    "DistrictName": "SİVEREK",
+    "NumberPlate": 63,
+    "Population": 266971
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ŞANLIURFA",
+    "DistrictName": "SURUÇ",
+    "NumberPlate": 63,
+    "Population": 101178
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ŞANLIURFA",
+    "DistrictName": "VİRANŞEHİR",
+    "NumberPlate": 63,
+    "Population": 205380
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ŞIRNAK",
+    "DistrictName": "BEYTÜŞŞEBAP",
+    "NumberPlate": 73,
+    "Population": 15636
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ŞIRNAK",
+    "DistrictName": "CİZRE",
+    "NumberPlate": 73,
+    "Population": 155182
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ŞIRNAK",
+    "DistrictName": "GÜÇLÜKONAK",
+    "NumberPlate": 73,
+    "Population": 11915
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ŞIRNAK",
+    "DistrictName": "İDİL",
+    "NumberPlate": 73,
+    "Population": 77105
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ŞIRNAK",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 73,
+    "Population": 100206
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ŞIRNAK",
+    "DistrictName": "SİLOPİ",
+    "NumberPlate": 73,
+    "Population": 141621
+  },
+  {
+    "Region": "GÜNEYDOĞU ANADOLU",
+    "CityName": "ŞIRNAK",
+    "DistrictName": "ULUDERE",
+    "NumberPlate": 73,
+    "Population": 44924
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "TEKİRDAĞ",
+    "DistrictName": "ÇERKEZKÖY",
+    "NumberPlate": 59,
+    "Population": 196736
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "TEKİRDAĞ",
+    "DistrictName": "ÇORLU",
+    "NumberPlate": 59,
+    "Population": 284907
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "TEKİRDAĞ",
+    "DistrictName": "ERGENE",
+    "NumberPlate": 59,
+    "Population": 66028
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "TEKİRDAĞ",
+    "DistrictName": "HAYRABOLU",
+    "NumberPlate": 59,
+    "Population": 31245
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "TEKİRDAĞ",
+    "DistrictName": "KAPAKLI",
+    "NumberPlate": 59,
+    "Population": 130813
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "TEKİRDAĞ",
+    "DistrictName": "MALKARA",
+    "NumberPlate": 59,
+    "Population": 51616
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "TEKİRDAĞ",
+    "DistrictName": "MARMARAEREĞLİSİ",
+    "NumberPlate": 59,
+    "Population": 28336
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "TEKİRDAĞ",
+    "DistrictName": "MURATLI",
+    "NumberPlate": 59,
+    "Population": 29716
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "TEKİRDAĞ",
+    "DistrictName": "SARAY",
+    "NumberPlate": 59,
+    "Population": 50394
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "TEKİRDAĞ",
+    "DistrictName": "SÜLEYMANPAŞA",
+    "NumberPlate": 59,
+    "Population": 210547
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "TEKİRDAĞ",
+    "DistrictName": "ŞARKÖY",
+    "NumberPlate": 59,
+    "Population": 33062
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TOKAT",
+    "DistrictName": "ALMUS",
+    "NumberPlate": 60,
+    "Population": 23868
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TOKAT",
+    "DistrictName": "ARTOVA",
+    "NumberPlate": 60,
+    "Population": 7681
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TOKAT",
+    "DistrictName": "BAŞÇİFTLİK",
+    "NumberPlate": 60,
+    "Population": 7479
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TOKAT",
+    "DistrictName": "ERBAA",
+    "NumberPlate": 60,
+    "Population": 99815
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TOKAT",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 60,
+    "Population": 204907
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TOKAT",
+    "DistrictName": "NİKSAR",
+    "NumberPlate": 60,
+    "Population": 63486
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TOKAT",
+    "DistrictName": "PAZAR",
+    "NumberPlate": 60,
+    "Population": 12937
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TOKAT",
+    "DistrictName": "REŞADİYE",
+    "NumberPlate": 60,
+    "Population": 35304
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TOKAT",
+    "DistrictName": "SULUSARAY",
+    "NumberPlate": 60,
+    "Population": 6769
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TOKAT",
+    "DistrictName": "TURHAL",
+    "NumberPlate": 60,
+    "Population": 78294
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TOKAT",
+    "DistrictName": "YEŞİLYURT",
+    "NumberPlate": 60,
+    "Population": 8478
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TOKAT",
+    "DistrictName": "ZİLE",
+    "NumberPlate": 60,
+    "Population": 53549
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TRABZON",
+    "DistrictName": "AKÇAABAT",
+    "NumberPlate": 61,
+    "Population": 128348
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TRABZON",
+    "DistrictName": "ARAKLI",
+    "NumberPlate": 61,
+    "Population": 48382
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TRABZON",
+    "DistrictName": "ARSİN",
+    "NumberPlate": 61,
+    "Population": 31548
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TRABZON",
+    "DistrictName": "BEŞİKDÜZÜ",
+    "NumberPlate": 61,
+    "Population": 23594
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TRABZON",
+    "DistrictName": "ÇARŞIBAŞI",
+    "NumberPlate": 61,
+    "Population": 15395
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TRABZON",
+    "DistrictName": "ÇAYKARA",
+    "NumberPlate": 61,
+    "Population": 13550
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TRABZON",
+    "DistrictName": "DERNEKPAZARI",
+    "NumberPlate": 61,
+    "Population": 3884
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TRABZON",
+    "DistrictName": "DÜZKÖY",
+    "NumberPlate": 61,
+    "Population": 13575
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TRABZON",
+    "DistrictName": "HAYRAT",
+    "NumberPlate": 61,
+    "Population": 7581
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TRABZON",
+    "DistrictName": "KÖPRÜBAŞI",
+    "NumberPlate": 61,
+    "Population": 4371
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TRABZON",
+    "DistrictName": "MAÇKA",
+    "NumberPlate": 61,
+    "Population": 24869
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TRABZON",
+    "DistrictName": "OF",
+    "NumberPlate": 61,
+    "Population": 44212
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TRABZON",
+    "DistrictName": "ORTAHİSAR",
+    "NumberPlate": 61,
+    "Population": 334228
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TRABZON",
+    "DistrictName": "SÜRMENE",
+    "NumberPlate": 61,
+    "Population": 26161
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TRABZON",
+    "DistrictName": "ŞALPAZARI",
+    "NumberPlate": 61,
+    "Population": 10519
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TRABZON",
+    "DistrictName": "TONYA",
+    "NumberPlate": 61,
+    "Population": 13754
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TRABZON",
+    "DistrictName": "VAKFIKEBİR",
+    "NumberPlate": 61,
+    "Population": 27081
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "TRABZON",
+    "DistrictName": "YOMRA",
+    "NumberPlate": 61,
+    "Population": 45632
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "TUNCELİ",
+    "DistrictName": "ÇEMİŞGEZEK",
+    "NumberPlate": 62,
+    "Population": 7418
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "TUNCELİ",
+    "DistrictName": "HOZAT",
+    "NumberPlate": 62,
+    "Population": 5590
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "TUNCELİ",
+    "DistrictName": "MAZGİRT",
+    "NumberPlate": 62,
+    "Population": 7357
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "TUNCELİ",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 62,
+    "Population": 39610
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "TUNCELİ",
+    "DistrictName": "NAZIMİYE",
+    "NumberPlate": 62,
+    "Population": 3011
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "TUNCELİ",
+    "DistrictName": "OVACIK",
+    "NumberPlate": 62,
+    "Population": 6366
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "TUNCELİ",
+    "DistrictName": "PERTEK",
+    "NumberPlate": 62,
+    "Population": 11011
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "TUNCELİ",
+    "DistrictName": "PÜLÜMÜR",
+    "NumberPlate": 62,
+    "Population": 3282
+  },
+  {
+    "Region": "EGE",
+    "CityName": "UŞAK",
+    "DistrictName": "BANAZ",
+    "NumberPlate": 64,
+    "Population": 35594
+  },
+  {
+    "Region": "EGE",
+    "CityName": "UŞAK",
+    "DistrictName": "EŞME",
+    "NumberPlate": 64,
+    "Population": 34703
+  },
+  {
+    "Region": "EGE",
+    "CityName": "UŞAK",
+    "DistrictName": "KARAHALLI",
+    "NumberPlate": 64,
+    "Population": 9782
+  },
+  {
+    "Region": "EGE",
+    "CityName": "UŞAK",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 64,
+    "Population": 260843
+  },
+  {
+    "Region": "EGE",
+    "CityName": "UŞAK",
+    "DistrictName": "SİVASLI",
+    "NumberPlate": 64,
+    "Population": 20006
+  },
+  {
+    "Region": "EGE",
+    "CityName": "UŞAK",
+    "DistrictName": "ULUBEY",
+    "NumberPlate": 64,
+    "Population": 12255
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "VAN",
+    "DistrictName": "BAHÇESARAY",
+    "NumberPlate": 65,
+    "Population": 13936
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "VAN",
+    "DistrictName": "BAŞKALE",
+    "NumberPlate": 65,
+    "Population": 47947
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "VAN",
+    "DistrictName": "ÇALDIRAN",
+    "NumberPlate": 65,
+    "Population": 61625
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "VAN",
+    "DistrictName": "ÇATAK",
+    "NumberPlate": 65,
+    "Population": 19376
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "VAN",
+    "DistrictName": "EDREMİT",
+    "NumberPlate": 65,
+    "Population": 128555
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "VAN",
+    "DistrictName": "ERCİŞ",
+    "NumberPlate": 65,
+    "Population": 173606
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "VAN",
+    "DistrictName": "GEVAŞ",
+    "NumberPlate": 65,
+    "Population": 27442
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "VAN",
+    "DistrictName": "GÜRPINAR",
+    "NumberPlate": 65,
+    "Population": 33791
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "VAN",
+    "DistrictName": "İPEKYOLU",
+    "NumberPlate": 65,
+    "Population": 339952
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "VAN",
+    "DistrictName": "MURADİYE",
+    "NumberPlate": 65,
+    "Population": 47971
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "VAN",
+    "DistrictName": "ÖZALP",
+    "NumberPlate": 65,
+    "Population": 63270
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "VAN",
+    "DistrictName": "SARAY",
+    "NumberPlate": 65,
+    "Population": 20224
+  },
+  {
+    "Region": "DOĞU ANADOLU",
+    "CityName": "VAN",
+    "DistrictName": "TUŞBA",
+    "NumberPlate": 65,
+    "Population": 163320
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "YALOVA",
+    "DistrictName": "ALTINOVA",
+    "NumberPlate": 77,
+    "Population": 31279
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "YALOVA",
+    "DistrictName": "ARMUTLU",
+    "NumberPlate": 77,
+    "Population": 10349
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "YALOVA",
+    "DistrictName": "ÇINARCIK",
+    "NumberPlate": 77,
+    "Population": 37490
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "YALOVA",
+    "DistrictName": "ÇİFTLİKKÖY",
+    "NumberPlate": 77,
+    "Population": 48368
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "YALOVA",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 77,
+    "Population": 156838
+  },
+  {
+    "Region": "MARMARA",
+    "CityName": "YALOVA",
+    "DistrictName": "TERMAL",
+    "NumberPlate": 77,
+    "Population": 6677
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "YOZGAT",
+    "DistrictName": "AKDAĞMADENİ",
+    "NumberPlate": 66,
+    "Population": 41902
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "YOZGAT",
+    "DistrictName": "AYDINCIK",
+    "NumberPlate": 66,
+    "Population": 9722
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "YOZGAT",
+    "DistrictName": "BOĞAZLIYAN",
+    "NumberPlate": 66,
+    "Population": 33817
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "YOZGAT",
+    "DistrictName": "ÇANDIR",
+    "NumberPlate": 66,
+    "Population": 4240
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "YOZGAT",
+    "DistrictName": "ÇAYIRALAN",
+    "NumberPlate": 66,
+    "Population": 12294
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "YOZGAT",
+    "DistrictName": "ÇEKEREK",
+    "NumberPlate": 66,
+    "Population": 18688
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "YOZGAT",
+    "DistrictName": "KADIŞEHRİ",
+    "NumberPlate": 66,
+    "Population": 10491
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "YOZGAT",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 66,
+    "Population": 108024
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "YOZGAT",
+    "DistrictName": "SARAYKENT",
+    "NumberPlate": 66,
+    "Population": 12462
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "YOZGAT",
+    "DistrictName": "SARIKAYA",
+    "NumberPlate": 66,
+    "Population": 32544
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "YOZGAT",
+    "DistrictName": "SORGUN",
+    "NumberPlate": 66,
+    "Population": 79781
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "YOZGAT",
+    "DistrictName": "ŞEFAATLİ",
+    "NumberPlate": 66,
+    "Population": 14351
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "YOZGAT",
+    "DistrictName": "YENİFAKILI",
+    "NumberPlate": 66,
+    "Population": 5296
+  },
+  {
+    "Region": "İÇ ANADOLU",
+    "CityName": "YOZGAT",
+    "DistrictName": "YERKÖY",
+    "NumberPlate": 66,
+    "Population": 34888
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ZONGULDAK",
+    "DistrictName": "ALAPLI",
+    "NumberPlate": 67,
+    "Population": 42927
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ZONGULDAK",
+    "DistrictName": "ÇAYCUMA",
+    "NumberPlate": 67,
+    "Population": 90362
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ZONGULDAK",
+    "DistrictName": "DEVREK",
+    "NumberPlate": 67,
+    "Population": 56925
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ZONGULDAK",
+    "DistrictName": "EREĞLİ",
+    "NumberPlate": 67,
+    "Population": 175726
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ZONGULDAK",
+    "DistrictName": "GÖKÇEBEY",
+    "NumberPlate": 67,
+    "Population": 20839
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ZONGULDAK",
+    "DistrictName": "KİLİMLİ",
+    "NumberPlate": 67,
+    "Population": 33620
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ZONGULDAK",
+    "DistrictName": "KOZLU",
+    "NumberPlate": 67,
+    "Population": 48890
+  },
+  {
+    "Region": "KARADENİZ",
+    "CityName": "ZONGULDAK",
+    "DistrictName": "MERKEZ",
+    "NumberPlate": 67,
+    "Population": 120395
+  }
+]
